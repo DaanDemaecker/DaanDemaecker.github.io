@@ -1,5 +1,5 @@
 # Daan Demaecker
-Hi, my name is Daan Demaecker and i am a game developer, in this github page, i will tell you a bit more about who i am, what i do, what i did and what i want to do.  
+Hi, my name is Daan Demaecker and I am a game developer, in this github page, I will tell you a bit more about who I am, what I do, what I did and what I want to do.  
 
 ## Studies
 I am currently finishing my second year of Game Development at DAE in Belgium.  
