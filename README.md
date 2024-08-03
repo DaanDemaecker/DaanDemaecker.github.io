@@ -12,5 +12,5 @@ This made me change tracks and I studied math and science for the next 5 years, 
 Because I thought I found my passion in science, mainly physics, I started studying physics at the school KULAK in Kortrijk, Belgium.  
 But after a year I once again changed tracks because the physics were mostly theory and not much practice, this made me lose interest.  
 After looking for an alternative I realized making games was an option, it had math, it had some applied physics, it was perfect.  
-This is how I got to study Game Development at DAE in Kortrijk, Belgium where i am now finishing my third year.  
+This is how I got to study Game Development at [**DAE**](https://www.digitalartsandentertainment.be) in Kortrijk, Belgium where i am now finishing my third year.  
 
