@@ -1,4 +1,4 @@
-# Daan Demaecker
+# Daan Demaecker [^1]
 Hi, my name is Daan Demaecker and I am a game developer, in this github page, I will tell you a bit more about who I am, what I do, what I did and what I want to do.  
 
 ## About me
@@ -14,3 +14,4 @@ But after a year I once again changed tracks because the physics were mostly the
 After looking for an alternative I realized making games was an option, it had math, it had some applied physics, it was perfect.  
 This is how I got to study Game Development at [**DAE**](https://www.digitalartsandentertainment.be) in Kortrijk, Belgium where i am now finishing my third year.  
 
+[^1]: Work In Progress
