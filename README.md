@@ -6,7 +6,8 @@ Hi, my name is [Daan Demaecker](AboutMe.md) and I am a game developer, in this g
 
 # Projects
 ## [Vulkan Renderer](https://github.com/DaanDemaecker/VulkanRenderer)
-A renderer that uses the Vulkan Api.  
+A renderer that uses the Vulkan Api. 
+![VulkanRenderer3D](Content/VulkanRenderer3D.gif)
 
 ## [D3D-Lite-Engine](https://github.com/DaanDemaecker/D3D-Lite-Engine)
 A small 3D, component-based engine using my VulkanRenderer.
