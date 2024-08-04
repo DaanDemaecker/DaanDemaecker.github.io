@@ -34,5 +34,7 @@ A cuphead remake made with a given framework from school.
 ## [Software Raytracer](https://github.com/DaanDemaecker/RayTracer)
 A purely CPU raytracer.
 
+![RayTracer](Content/RayTracer.gif)
+
 ## [Dual Rasterizer](https://github.com/DaanDemaecker/DualRasterizer)
 A rasterizer that can switch between DirectX and purely CPU based.
