@@ -1,4 +1,6 @@
-<link href="Content/StyleSheet.css" rel="stylesheet"></link>
+<link href="Content/StyleSheet.css" rel="stylesheet">
+
+<span style="color: white;">
 
 # Daan Demaecker [^1]
 ## [Projects](#Projects)      [About me](AboutMe.md)
