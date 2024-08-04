@@ -1,5 +1,5 @@
 # About me
-## <Pre> [Projects](https://github.com/DaanDemaecker/DaanDemaecker.github.io/blob/main/README.md#projects)      [About me](AboutMe.md) </Pre>
+## [Projects](ReadMe.md) [About me](AboutMe.md)
 ## Intro
 I have always loved games and a couple years ago I fell in love with everything behind them, from the first line of code to the final particle of polishing.  
 Because the industry is relatively new, I never even dreamed of making my own games until I discovered DAE, but when I did, I was hooked.  
