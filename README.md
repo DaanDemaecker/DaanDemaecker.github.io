@@ -5,6 +5,10 @@ Hi, my name is [Daan Demaecker](AboutMe.md) and I am a game developer, in this g
 [^1]: Work In Progress
 
 # Projects
+## [Warp Warfare](https://luckyelias.itch.io/group29-warp-warfare)
+A group project where i was the sole programmer, i had a lot of fun during this project with my coleagues.  
+The names of my colleagues can be found on our Itch.io, linked above.
+
 ## [Vulkan Renderer](https://github.com/DaanDemaecker/VulkanRenderer)
 A renderer that uses the Vulkan Api. 
 ![VulkanRenderer3D](Content/VulkanRenderer3D.gif)
