@@ -26,3 +26,5 @@ A purely CPU raytracer.
 
 ## [Dual Rasterizer](https://github.com/DaanDemaecker/DualRasterizer)
 A rasterizer that can switch between DirectX and purely CPU based.  
+
+</span>
