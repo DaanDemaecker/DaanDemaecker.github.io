@@ -18,6 +18,8 @@ A small 3D, component-based engine using my VulkanRenderer with object loader as
 ## [D2D Engine - Bomberman](https://github.com/DaanDemaecker/D2DEngine)
 A small 2D, component-based engine with bomberman as test project.  
 
+![bomberman](Content/Bomberman.gif)
+
 ## [Cuphead remake](https://github.com/DaanDemaecker/CupheadRemake)
 A cuphead remake made with a given framework from school.  
 
