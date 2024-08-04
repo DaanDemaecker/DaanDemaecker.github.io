@@ -29,6 +29,8 @@ A small 2D, component-based engine with bomberman as test project.
 ## [Cuphead remake](https://github.com/DaanDemaecker/CupheadRemake)
 A cuphead remake made with a given framework from school.  
 
+![Cuphead](Content/Cuphead.gif)
+
 ## [Software Raytracer](https://github.com/DaanDemaecker/RayTracer)
 A purely CPU raytracer.
 
