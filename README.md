@@ -1,3 +1,9 @@
+<object data="Content/DaanDemaecker.pdf" type="application/pdf" width="700px" height="700px">
+    <embed src="http://yoursite.com/the.pdf">
+        <p>This browser does not support PDFs. Please download the PDF to view it: <a href="http://yoursite.com/the.pdf">Download PDF</a>.</p>
+    </embed>
+</object>
+
 # Daan Demaecker [^1]
 ## [Projects](#Projects)      [About me](AboutMe.md)
 Hi, my name is [Daan Demaecker](AboutMe.md) and I am a game developer, in this github page, I will tell you a bit more about who I am, what I do, what I did and what I want to do.  
