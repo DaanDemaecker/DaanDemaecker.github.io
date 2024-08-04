@@ -1,9 +1,11 @@
 # About me
+## <Pre> [Projects](https://github.com/DaanDemaecker/DaanDemaecker.github.io/blob/main/README.md#projects)      [About me](AboutMe.md) </Pre>
+## Intro
 I have always loved games and a couple years ago I fell in love with everything behind them, from the first line of code to the final particle of polishing.  
 Because the industry is relatively new, I never even dreamed of making my own games until I discovered DAE, but when I did, I was hooked.  
 I love solving problems (as can be seen by my ever growing Rubik's cube collection) and programming has won my heart as well.  
 
-# Studies
+## Studies
 In highschool I started with studying Latin, but after a year I realised mindlessly memorizing wasn't for me.  
 This made me change tracks and I studied math and science for the next 5 years, this is where I found my first passion for learning.  
 Because I thought I found my passion in science, mainly physics, I started studying physics at the school KULAK in Kortrijk, Belgium.  
