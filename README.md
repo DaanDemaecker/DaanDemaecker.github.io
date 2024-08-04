@@ -12,7 +12,7 @@ A renderer that uses the Vulkan Api.
 ## [D3D-Lite-Engine](https://github.com/DaanDemaecker/D3D-Lite-Engine)
 A small 3D, component-based engine using my VulkanRenderer with object loader as example project.
 
-![object loader](Content/D3D-Lite-engine.gif)
+![object loader](Content/D3D-Lite-Engine.gif)
 
 
 ## [D2D Engine - Bomberman](https://github.com/DaanDemaecker/D2DEngine)
