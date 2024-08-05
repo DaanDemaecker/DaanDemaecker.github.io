@@ -7,7 +7,7 @@ Hi, my name is [Daan Demaecker](AboutMe.md) and I am a game developer, in this g
 ## School projects
 
 | | | |
-|----------------------------------------|----------------------------------------|----------------------------------------|
+|:----------------------------------------:|:----------------------------------------:|:----------------------------------------:|
 |[**Warp Warfare**](Projects/WarpWarfare.md)|[**D2D-Engine**](Projects/D2D-Engine.md)|[**Cuphead Remake**](Projects/CupheadRemake)|
 |<img src="Content/WarpWarfare.png" alt="drawing" width="300"/>|<img src="Content/Bomberman.gif" alt="drawing" width="300"/>|<img src="Content/Cuphead.gif" alt="drawing" width="300"/>|
 |[**Raytracer**](Projects/SoftwareRayTracer.md)|[**Dual Rasterizer**](Projects/DualRasterizer.md)|
@@ -17,7 +17,7 @@ Hi, my name is [Daan Demaecker](AboutMe.md) and I am a game developer, in this g
 ## Private projects
 
 | | |
-|----------------------------------------|----------------------------------------|
+|:----------------------------------------:|:----------------------------------------:|
 |[**VulkanRenderer**](Projects/VulkanRenderer.md)|[**D3D-Lite-Engine**](Projects/D3D-Lite-Engine.md)|
 |<img src="Content/VulkanRenderer3D.gif" alt="drawing" width="300"/>|<img src="Content/D3D-Lite-Engine.gif" alt="drawing" width="300"/>|
 
