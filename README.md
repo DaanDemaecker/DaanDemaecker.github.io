@@ -5,6 +5,15 @@ Hi, my name is [Daan Demaecker](AboutMe.md) and I am a game developer, in this g
 
 # Projects
 ## School projects
+
+| | | |
+|----------------------------------------|----------------------------------------|----------------------------------------|
+|**Warp Warfare**|**D2D-Engine**|**Cuphead Remake**|
+|<img src="Content/WarpWarfare.png" alt="drawing" width="300"/>|<img src="Content/Bomberman.gif" alt="drawing" width="300"/>|<img src="Content/Cuphead.gif" alt="drawing" width="300"/>|
+|**Raytracer**|**Dual Rasterizer**|
+|<img src="Content/RayTracer.gif" alt="drawing" width="300"/>|<img src="Content/DualRasterizer.gif" alt="drawing" width="300"/>|
+
+
 ### [Warp Warfare](https://luckyelias.itch.io/group29-warp-warfare)
 A group project where I was the **sole programmer**, I had a lot of *fun* during this project with my colleagues.  
 The names of my colleagues can be found on our Itch.io, linked above.
@@ -47,6 +56,11 @@ One of them is obviously more performant (try to guess which one), but it also t
 
 
 ## Private projects
+
+| | |
+|----------------------------------------|----------------------------------------|
+|**VulkanRenderer**|**D3D-Lite-Engine**|
+|<img src="Content/VulkanRenderer3D.gif" alt="drawing" width="300"/>|<img src="Content/D3D-Lite-Engine.gif" alt="drawing" width="300"/>|
 
 ### [Vulkan Renderer](https://github.com/DaanDemaecker/VulkanRenderer)
 After graphics programming 1, I was very interested in Rendering APIs, so I looked for more and found Vulkan.  
