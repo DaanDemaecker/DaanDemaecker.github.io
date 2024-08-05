@@ -1,6 +1,6 @@
 # [Warp Warfare](https://luckyelias.itch.io/group29-warp-warfare)
 
-## | [Projects](../README.md)  |    [About me](../AboutMe.md)  |    [Resume](../Content/DaanDemaeckerCV.pdf) |
+## | [Projects](https://daandemaecker.github.io)  |    [About me](https://daandemaecker.github.io/AboutMe.html)  |
 
 A group project where I was the sole programmer, I had a lot of fun during this project with my coleagues.  
 The names of my colleagues can be found on our Itch.io, linked above.
