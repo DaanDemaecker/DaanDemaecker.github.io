@@ -8,11 +8,11 @@ Hi, my name is [Daan Demaecker](AboutMe.md) and I am a game developer, in this g
 
 |[**Warp Warfare**](Projects/WarpWarfare.md)|[**D2D-Engine**](Projects/D2D-Engine.md)|[**Cuphead Remake**](Projects/CupheadRemake)|
 |:----------------------------------------:|:----------------------------------------:|:----------------------------------------:|
-| Vertical slice game in Unity| 2D engine with bomberman | 2D platformer remake |
-|<img src="Content/WarpWarfare.png" alt="drawing" width="300"/>|<img src="Content/Bomberman.gif" alt="drawing" width="300"/>|<img src="Content/Cuphead.gif" alt="drawing" width="300"/>|
+| Vertical slice in Unity| Bomberman in custom 2D engine | 2D platformer remake |
+|<a href="Projects/WarpWarfare.md"><img src="Content/WarpWarfare.png" alt="drawing" width="300"/>|<a href="Projects/D2D-Engine.md"><img src="Content/Bomberman.gif" alt="drawing" width="300"/>|<a href="Projects/CupheadRemake.md"><img src="Content/Cuphead.gif" alt="drawing" width="300"/>|
 |[**Raytracer**](Projects/SoftwareRayTracer.md)|[**Dual Rasterizer**](Projects/DualRasterizer.md)|
-| Cpu raytracer | DirectX and Cpu rasterizer |
-|<img src="Content/RayTracer.gif" alt="drawing" width="300"/>|<img src="Content/DualRasterizer.gif" alt="drawing" width="300"/>|
+| CPU raytracer | DirectX and CPU rasterizer |
+|<a href="Projects/WarpWarfare.md"><img src="Content/RayTracer.gif" alt="drawing" width="300"/>|<a href="Projects/DualRasterizer"><img src="Content/DualRasterizer.gif" alt="drawing" width="300"/>|
 
 
 ## Private projects
@@ -20,5 +20,5 @@ Hi, my name is [Daan Demaecker](AboutMe.md) and I am a game developer, in this g
 |[**VulkanRenderer**](Projects/VulkanRenderer.md)|[**D3D-Lite-Engine**](Projects/D3D-Lite-Engine.md)|
 |:----------------------------------------:|:----------------------------------------:|
 | Renderer using Vulkan Api | 3D Engine using my renderer |
-|<img src="Content/VulkanRenderer3D.gif" alt="drawing" width="300"/>|<img src="Content/D3D-Lite-Engine.gif" alt="drawing" width="300"/>|
+|<a href="Projects/VulkanRenderer.md"><img src="Content/VulkanRenderer3D.gif" alt="drawing" width="300"/>|<a href="Projects/D3D-Lite-Engine.md"><img src="Content/D3D-Lite-Engine.gif" alt="drawing" width="300"/>|
 
