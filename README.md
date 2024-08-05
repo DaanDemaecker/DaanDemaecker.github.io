@@ -4,6 +4,15 @@
 Hi, my name is [Daan Demaecker](AboutMe.md) and I am a game developer, in this github page, I will tell you a bit more about who I am, what I do, what I did and what I want to do.  
 
 # Projects
+
+## Personal projects
+
+|[**VulkanRenderer**](Projects/VulkanRenderer.md)|[**D3D-Lite-Engine**](Projects/D3D-Lite-Engine.md)|
+|:----------------------------------------:|:----------------------------------------:|
+| Renderer using Vulkan Api | 3D Engine using my renderer |
+|<a href="https://daandemaecker.github.io/Projects/VulkanRenderer.html"><img src="Content/VulkanRenderer3D.gif" alt="drawing" width="300"/>|<a href="https://daandemaecker.github.io/Projects/D3D-Lite-Engine.html"><img src="Content/D3D-Lite-Engine.gif" alt="drawing" width="300"/>|
+
+
 ## School projects
 
 |[**Warp Warfare**](Projects/WarpWarfare.md)|[**D2D-Engine**](Projects/D2D-Engine.md)|[**Cuphead Remake**](Projects/CupheadRemake)|
@@ -13,12 +22,4 @@ Hi, my name is [Daan Demaecker](AboutMe.md) and I am a game developer, in this g
 |[**Raytracer**](Projects/SoftwareRayTracer.md)|[**Dual Rasterizer**](Projects/DualRasterizer.md)|
 | CPU raytracer | DirectX and CPU rasterizer |
 |<a href="https://daandemaecker.github.io/Projects/WarpWarfare.html"><img src="Content/RayTracer.gif" alt="drawing" width="300"/>|<a href="https://daandemaecker.github.io/Projects/DualRasterizer.html"><img src="Content/DualRasterizer.gif" alt="drawing" width="300"/>|
-
-
-## Private projects
-
-|[**VulkanRenderer**](Projects/VulkanRenderer.md)|[**D3D-Lite-Engine**](Projects/D3D-Lite-Engine.md)|
-|:----------------------------------------:|:----------------------------------------:|
-| Renderer using Vulkan Api | 3D Engine using my renderer |
-|<a href="https://daandemaecker.github.io/Projects/VulkanRenderer.html"><img src="Content/VulkanRenderer3D.gif" alt="drawing" width="300"/>|<a href="https://daandemaecker.github.io/Projects/D3D-Lite-Engine.html"><img src="Content/D3D-Lite-Engine.gif" alt="drawing" width="300"/>|
 
