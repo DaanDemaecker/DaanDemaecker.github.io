@@ -6,18 +6,18 @@ Hi, my name is [Daan Demaecker](AboutMe.md) and I am a game developer, in this g
 # Projects
 ## School projects
 ### [Warp Warfare](https://luckyelias.itch.io/group29-warp-warfare)
-A group project where I was the sole programmer, I had a lot of fun during this project with my coleagues.  
+A group project where I was the **sole programmer**, I had a lot of *fun* during this project with my colleagues.  
 The names of my colleagues can be found on our Itch.io, linked above.
-We were tasked to create a fun, local multiplayer game in an engine of our choice.  
-We chose unity as we only had one programmer and unreal can get complicated.  
-Our game ended up as a free for all battle with portal guns as your only weapon, i am proud
+We were tasked to create a ***fun***, local multiplayer game in either Unity or Unreal Engine.  
+We chose Unity as we only had one programmer and I was a llot more comfortable and familiar with Unity, compared to Unreal Engine.  
+Our game ended up as a free for all battle with portal guns as your only weapon, I am proud
 of what my team and I accomplished together.  
 
 ![Warp Warfare](Content/WarpWarfare.png)
 
 
 ### [D2D Engine - Bomberman](https://github.com/DaanDemaecker/D2DEngine)
-For my Programming 4 class, we had to create a 2D engine from a minor starting point and were each given a game to recreate as proof that our engine worked.  
+For my Programming 4 class, we had to create a 2D engine from a bare bones starting point and were each given a game to recreate as proof that our engine worked.  
 The game given to me was bomberman. I had a ton of fun creating this and am proud of the result.  
 
 ![bomberman](Content/Bomberman.gif)
@@ -27,7 +27,7 @@ The game given to me was bomberman. I had a ton of fun creating this and am prou
 In my Programming 2 class, our skills we learned in the first semester were put to the test.  
 We had to choose a 2D platformer game and recreate it as best as possible using a minor framework.  
 I chose Cuphead as game because I have always loved the style and wanted a challenge.  
-The result speaks for itself
+The result speaks for itself.
 
 ![Cuphead](Content/Cuphead.gif)
 
@@ -41,7 +41,7 @@ The performance will never be great as it runs purely on CPU, but it helped us u
 
 ### [Dual Rasterizer](https://github.com/DaanDemaecker/DualRasterizer)
 For my Graphics Programming 1 class, we also made a rasterizer that switches from DirectX to a self made CPU rasterize.  
-One of them is obviously more performant (try to guess which one), but it also taught us a lot more about the process of rasterising.  
+One of them is obviously more performant (try to guess which one), but it also taught us a lot more about the process of rasterizing.  
 
 ![DualRasterizer](Content/DualRasterizer.gif)
 
@@ -49,8 +49,8 @@ One of them is obviously more performant (try to guess which one), but it also t
 ## Private projects
 
 ### [Vulkan Renderer](https://github.com/DaanDemaecker/VulkanRenderer)
-After graphics programming 1, I was very interested in Rendering APIs, so i looked for more and found Vulkan.  
-My curiosity for Vulkan can never be quenched and i try to work for it every day.
+After graphics programming 1, I was very interested in Rendering APIs, so I looked for more and found Vulkan.  
+My curiosity for Vulkan can never be quenched and I try to work for it every day.
 ![VulkanRenderer3D](Content/VulkanRenderer3D.gif)
 
 
