@@ -5,16 +5,16 @@
 <img src="../Content/VulkanRenderer3D.gif" alt="drawing"/>
 
 ## Motivation
-While studying Game Development at Digital Arts and Entertainment in Kortrijk, Belgium, I followed a Graphics Programming class. We made a self-made software rasterizer and a DirectX rasterizer in this class. These were later combined and can be found on my GitHub.  
+While studying Game Development at Digital Arts and Entertainment in Kortrijk, Belgium, I followed a Graphics Programming class. We made a self-made software rasterizer and a DirectX rasterizer in this class. These were later [combined](https://github.com/DaanDemaecker/DualRasterizer) and can be found on my GitHub.  
 This made me look into more rendering APIs and I landed on Vulkan to make my own Renderer.  
-This renderer is also integrated into my self-made engine, as my engine project grew, this project became more of a testing ground for Vulkan.  
+This renderer is also integrated into my [self-made engine](https://github.com/DaanDemaecker/D3D-Lite-Engine), as my engine project grew, this project became more of a testing ground for Vulkan.  
 
 ## Initial goals
-I wanted to deepen my understanding of graphics programming and in the long run, build a small engine that I built myself from the ground up.  
+I wanted to deepen my understanding of graphics programming and in the long run, build a small engine that I built myself from scratch.  
 I wanted to create a renderer completely by myself (with the help of tutorials but no starting project) as a challenge to see how far I could get.  
 
 # Vulkan renderer 3D
-## Curren capabilities
+## Current capabilities
 - ***Model loading***  
 3D model can be loaded from .obj files and displayed on screen.  
 
