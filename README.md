@@ -20,6 +20,6 @@ Hi, my name is [Daan Demaecker](AboutMe.md) and I am a game developer, in this G
 | Vertical slice in Unity| Bomberman in custom 2D engine | 2D platformer remake |
 |<a href="https://daandemaecker.github.io/Projects/WarpWarfare.html"><img src="Content/WarpWarfare.png" alt="drawing" width="300"/>|<a href="https://daandemaecker.github.io/Projects/D2D-Engine.html"><img src="Content/Bomberman.gif" alt="drawing" width="300"/>|<a href="https://daandemaecker.github.io/Projects/CupheadRemake.html"><img src="Content/Cuphead.gif" alt="drawing" width="300"/>|
 |[**Raytracer**](Projects/SoftwareRayTracer.md)|[**Dual Rasterizer**](Projects/DualRasterizer.md)|[**The Three Guardians**](https://github.com/DaanDemaecker/TheThreeGuardians)|
-| CPU raytracer | DirectX and CPU rasterizer | Mechanics based game made unity |
+| CPU raytracer | DirectX and CPU rasterizer | Mechanics based game made with unity |
 |<a href="https://daandemaecker.github.io/Projects/WarpWarfare.html"><img src="Content/RayTracer.gif" alt="drawing" width="300"/>|<a href="https://daandemaecker.github.io/Projects/DualRasterizer.html"><img src="Content/DualRasterizer.gif" alt="drawing" width="300"/>| <a href="https://daandemaecker.github.io/Projects/TheThreeGuardians.html"><img src="Content/TheThreeGuardians.gif" alt="drawing" width="300"/>
 
