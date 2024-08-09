@@ -18,7 +18,7 @@ Hi, my name is [Daan Demaecker](AboutMe.md) and I am a game developer, in this G
 |[**Warp Warfare**](Projects/WarpWarfare.md)|[**D2D-Engine**](Projects/D2D-Engine.md)|[**Cuphead Remake**](Projects/CupheadRemake)|
 |:----------------------------------------:|:----------------------------------------:|:----------------------------------------:|
 | Vertical slice in Unity| Bomberman in custom 2D engine | 2D platformer remake |
-|<a href="Projects/WarpWarfare.md"><img src="Content/WarpWarfare.png" alt="drawing" width="300"/>|<a href="Projects/D2D-Engine.md"><img src="Content/Bomberman.gif" alt="drawing" width="300"/>|<a href="Projects/CupheadRemake.md"><img src="Content/Cuphead.gif" alt="drawing" width="300"/>|
+|<a href="Projects/WarpWarfare.md"><img src="Content/WarpWarfare.png" alt="drawing" width="300"/></a>|<a href="Projects/D2D-Engine.md"><img src="Content/Bomberman.gif" alt="drawing" width="300"/>|<a href="Projects/CupheadRemake.md"><img src="Content/Cuphead.gif" alt="drawing" width="300"/>|
 |[**Raytracer**](Projects/SoftwareRayTracer.md)|[**Dual Rasterizer**](Projects/DualRasterizer.md)|[**The Three Guardians**](https://github.com/DaanDemaecker/TheThreeGuardians)|
 | CPU raytracer | DirectX and CPU rasterizer | Mechanics based game made with unity |
 |<a href="Projects/SoftwareRayTracer.md"><img src="Content/RayTracer.gif" alt="drawing" width="300"/>|<a href="Projects/DualRasterizer.md"><img src="Content/DualRasterizer.gif" alt="drawing" width="300"/>| <a href="Projects/TheThreeGuardians.md"><img src="Content/TheThreeGuardians.gif" alt="drawing" width="300"/>
