@@ -8,7 +8,7 @@ In the last year, my love and interest for Graphics Programming has also been gr
 
 ## Soft skills
 I love solving problems (as can be seen by my ever-growing Rubik's cube collection) and programming has won my heart as well.  
-I am good at taking and applying feedback, a lot of this site looked different before receiving feedback from my friends and colleagues.
+I am good at taking and applying feedback, a lot of this site looked different before receiving and applying feedback from my friends and colleagues.
 
 ## Studies
 I started studying Latin in high school, but after a year, I realized that mindlessly memorizing wasn't for me.  
