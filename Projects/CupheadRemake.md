@@ -14,11 +14,11 @@ I chose Cuphead as my game because I have always loved it and recently bought it
 
 ## Challenges and mistakes I made
 There were a lot of challenges that came with the making of this game of course like:
-- Collisions
+- Collisions  
    We were not using a physics library at the time, so the collisions existed out of self-defined boxes that had to be checked manually, this isn't ideal.
-- Tracking bullets
+- Tracking bullets   
   Nearing the end of the project I added the different bullet types of Cuphead, including tracking bullets. The challenge was that I had to track them until they died. Trying to solve this problem, I ended up learning about and using smart pointers,  namely weak pointers to detect when the object had died. This is a choice I would never make again as weak pointers are not the best for this type of thing. In future projects, I would probably use an event system.
-- Levels with specific input
+- Levels with specific input  
   In Cuphead, only a couple of levels need an "Enter" input to end the level, mainly the tutorial. Because we did not learn about event systems yet I manually checked if the level needed it and then checked the enter button, it was not Ideal.
 
 ## Conclusion
