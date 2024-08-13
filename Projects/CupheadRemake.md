@@ -1,3 +1,5 @@
+<link href="../Content/StyleSheet.css" rel="stylesheet"/> 
+
 # [Cuphead remake](https://github.com/DaanDemaecker/CupheadRemake)
 
 ## | [Projects](https://daandemaecker.github.io)  |    [About me](https://daandemaecker.github.io/AboutMe.html)  |
@@ -5,10 +7,10 @@
 <img src="../Content/Cuphead.gif" alt="drawing"/>
 
 ## Motivation
-In my Programming 2 class, our skills we learned in the first semester were put to the test.  
+In my Programming 2 class, the skills we learned in the first semester were put to the test.  
 We had to choose a 2D platformer game and recreate it as best as possible using a framework that contained little more than an update loop and a renderer.  
 
-I chose Cuphead as my game because I have always loved the game and I had recently bought it. This posed a challenge, of course, Cuphead wasn't as simple as other games that were out there like the good-fashioned Mario and others, but I was ready for a challenge and the result speaks for itself.
+I chose Cuphead as my game because I have always loved it and recently bought it. This posed a challenge, of course, Cuphead wasn't as simple as other games out there like the good-fashioned Mario and others, but I was ready for a challenge and the result speaks for itself.
 
 ## Challenges and mistakes I made
 There were a lot of challenges that came with the making of this game of course like:
