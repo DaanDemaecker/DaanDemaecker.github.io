@@ -1,3 +1,5 @@
+<link href="../Content/StyleSheet.css" rel="stylesheet"/> 
+
 # [Vulkan Renderer](https://github.com/DaanDemaecker/VulkanRenderer)
 
 ## | [Projects](https://daandemaecker.github.io)  |    [About me](https://daandemaecker.github.io/AboutMe.html)  |
