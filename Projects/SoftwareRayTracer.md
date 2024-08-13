@@ -1,3 +1,5 @@
+<link href="../Content/StyleSheet.css" rel="stylesheet"/> 
+
 # [Software Raytracer](https://github.com/DaanDemaecker/RayTracer)
 
 ## | [Projects](https://daandemaecker.github.io)  |    [About me](https://daandemaecker.github.io/AboutMe.html)  |
