@@ -3,3 +3,12 @@ body{
   background-color: #0d1117;
 	text-align: center
 }
+
+/* Style for the grid items */
+table {
+    background-color: transparent;
+}
+
+table td, table th {
+    background-color: transparent;
+}
