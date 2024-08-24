@@ -24,7 +24,7 @@ of what my team and I accomplished together.
 - Portals:
   Using portals was my idea because I love the Portal games by Valve and thought it would be a fun challenge to program. I was right on the second part as I had to go through a couple of iterations to get it working the way I wanted it to while still looking good.  
     - First iteration:  
-      In the first iteration, I wanted the portals to be as much as the ones from the Portal games. When a player enters a portal, a duplicate player gets made on the other portal, when you go further the player and the duplicate get swapped until you exit the portal.
+      In the first iteration, I wanted the portals to be as much as the ones from the Portal games. When a player enters a portal, a duplicate player gets made on the other portal, when you go further the player and the duplicate get swapped until you exit the portal.  
       <img src="Content/PortalIteration1.gif" alt="drawing" width="800"/>
     - Final product:
       In the final product, the player gets shrunk when entering the portal until too small to be visible, gets teleported to the other portal, and then restored to their former size.  
