@@ -1,10 +1,10 @@
-<link href="../Content/StyleSheet.css" rel="stylesheet"/> 
+<link href="../../Content/StyleSheet.css" rel="stylesheet"/> 
 
 # [Cuphead remake](https://github.com/DaanDemaecker/CupheadRemake)
 
 ## | [Projects](https://daandemaecker.github.io)  |    [About me](https://daandemaecker.github.io/AboutMe.html)  |
 
-<img src="../Content/Cuphead.gif" alt="drawing"/>
+<img src="../../Content/Cuphead.gif" alt="drawing"/>
 
 ## Motivation
 In my Programming 2 class, the skills we learned in the first semester were put to the test.  

@@ -1,10 +1,10 @@
-<link href="../Content/StyleSheet.css" rel="stylesheet"/> 
+<link href="../../Content/StyleSheet.css" rel="stylesheet"/> 
 
 µ# [D2D Engine - Bomberman](https://github.com/DaanDemaecker/D2DEngine)
 
 ## | [Projects](https://daandemaecker.github.io)  |    [About me](https://daandemaecker.github.io/AboutMe.html)  |
 
-<img src="../Content/Bomberman.gif" alt="drawing"/>
+<img src="../../Content/Bomberman.gif" alt="drawing"/>
 
 ## Intro
 The D2D engine is a very small 2D engine made by Daan Demaecker for the end assignment for Programming 4 in the Game development course in Digital Arts and Entertainment at Howest.  

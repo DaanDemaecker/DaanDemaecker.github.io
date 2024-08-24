@@ -1,11 +1,11 @@
-<link href="../Content/StyleSheet.css" rel="stylesheet"/> 
+<link href="../../Content/StyleSheet.css" rel="stylesheet"/> 
 
 # [Software Raytracer](https://github.com/DaanDemaecker/RayTracer)
 
 ## | [Projects](https://daandemaecker.github.io)  |    [About me](https://daandemaecker.github.io/AboutMe.html)  |
 
 
-<img src="../Content/RayTracer.gif" alt="drawing"/>  
+<img src="../../Content/RayTracer.gif" alt="drawing"/>  
 
 ## intro
 For my Graphics Programming 1 class, we made a CPU raytracer from scratch. 

@@ -1,10 +1,10 @@
-<link href="../Content/StyleSheet.css" rel="stylesheet"/> 
+<link href="../../Content/StyleSheet.css" rel="stylesheet"/> 
 
 # [Vulkan Renderer](https://github.com/DaanDemaecker/VulkanRenderer)
 
 ## | [Projects](https://daandemaecker.github.io)  |    [About me](https://daandemaecker.github.io/AboutMe.html)  |
 
-<img src="../Content/VulkanRenderer3D.gif" alt="drawing"/>
+<img src="../../Content/VulkanRenderer3D.gif" alt="drawing"/>
 
 ## Motivation
 While studying Game Development at Digital Arts and Entertainment in Kortrijk, Belgium, I followed a Graphics Programming class. We made a self-made software rasterizer and a DirectX rasterizer in this class. These were later [combined](https://github.com/DaanDemaecker/DualRasterizer) and can be found on my GitHub.  

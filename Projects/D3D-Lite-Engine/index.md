@@ -1,4 +1,4 @@
-<link href="../Content/StyleSheet.css" rel="stylesheet"/> 
+<link href="../../Content/StyleSheet.css" rel="stylesheet"/> 
 
 # [D3D-Lite-Engine](https://github.com/DaanDemaecker/D3D-Lite-Engine)
 
@@ -16,4 +16,4 @@ For my Graphics Programming 2 course, we used Vulkan in class, for the first tim
 As the choice of project was very free, it took me a while to choose, and considering the amount of time we got for this assignment, I decided to make a runtime model and material loader.
 I used the [Dear Imgui](https://github.com/ocornut/imgui) library to make a simple interface to load the objects and Textures.
 
-<img src="../Content/D3D-Lite-Engine.gif" alt="drawing"/>
+<img src="../../Content/D3D-Lite-Engine.gif" alt="drawing"/>

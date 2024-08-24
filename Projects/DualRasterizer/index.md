@@ -1,4 +1,4 @@
-<link href="../Content/StyleSheet.css" rel="stylesheet"/> 
+<link href="../../Content/StyleSheet.css" rel="stylesheet"/> 
 
 # [Dual Rasterizer](https://github.com/DaanDemaecker/DualRasterizer)
 
@@ -9,7 +9,7 @@ For my Graphics Programming 1 class, we made a rasterizer that switches from Dir
 One of them is obviously more performant (try to guess which one), but it also taught us a lot more about the process of rasterizing. 
 The CPU version will never be usable for bigger projects, but it was very satisfying to see built week by week.  
 
-<img src="../Content/DualRasterizer.gif" alt="drawing"/>  
+<img src="../../Content/DualRasterizer.gif" alt="drawing"/>  
 blue background = directX | gray background = CPU
 
 ## Capabilities
