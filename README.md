@@ -1,9 +1,12 @@
 <link href="Content/StyleSheet.css" rel="stylesheet"/> 
 
-# Daan Demaecker | <a href="https://www.linkedin.com/in/daan-demaecker-3737b0265/"><img src="https://content.linkedin.com/content/dam/me/business/en-us/amp/brand-site/v2/bg/LI-Bug.svg.original.svg" alt="drawing" width="25"/> | <a href="https://github.com/DaanDemaecker"><img src="https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png" alt="drawing" width="25"/>
 
 ## | [Projects](#Projects)  |    [About me](AboutMe.md)  |    [Resume](Content/DaanDemaeckerCV.pdf) |
-Hi, my name is [Daan Demaecker](AboutMe.md), I am a game developer and aspiring Graphics Programmer. This GitHub page will tell you more about who I am, what I do, what I did, and what I want to do.  
+
+
+# Daan Demaecker | <a href="https://www.linkedin.com/in/daan-demaecker-3737b0265/"><img src="https://content.linkedin.com/content/dam/me/business/en-us/amp/brand-site/v2/bg/LI-Bug.svg.original.svg" alt="drawing" width="25"/> | <a href="https://github.com/DaanDemaecker"><img src="https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png" alt="drawing" width="25"/>
+
+Hi, my name is [Daan Demaecker](AboutMe.md), I am a game developer and aspiring Graphics Programmer. This GitHub page will tell you more about who I am, what I do, what I did, and what I want to do. 
 
 # Projects
 
