@@ -27,4 +27,5 @@ of what my team and I accomplished together.
       In the first iteration, I wanted the portals to be as much as the ones from the Portal games. When a player enters a portal, a duplicate player gets made on the other portal, when you go further the player and the duplicate get swapped until you exit the portal.  
       <img src="Content/PortalIteration1.gif" alt="drawing" width="800"/>
     - Final product:
-      In the final product, the player gets shrunk when entering the portal until too small to be visible, gets teleported to the other portal, and then restored to their former size.  
+      In the final product, the player gets shrunk when entering the portal until too small to be visible, gets teleported to the other portal, and then restored to their former size.
+      <img src="Content/PortalIterationFinal.gif" alt="drawing" width="800"/>
