@@ -14,3 +14,7 @@ The performance will never be great as it runs purely on CPU, but it helped us u
 ## Capabilities
 - Rendering primitives:  
   The raytracer can render primitives like triangles and spheres, which comprise most of 3D rendering.
+- Rendering .obj files:  
+  The ray tracer can render low poly .obj file at a decent framerate.
+- PBR shading:  
+  Materials can give a glossiness, metaalness, roughness etc. and the raytracer  will handle these appropriately.  
