@@ -35,7 +35,7 @@ blue background = directX | gray background = CPU
 
 
 ## Topics we learned
-- ***Rasterization process**
+- ***Rasterization process***
   The entire process of getting a 3D model displayed on screen is way more complicated than any of us thought, but thanks to this course, we learned every step needed to get there.
 
 - ***Clipping***
