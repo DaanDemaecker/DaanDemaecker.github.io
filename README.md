@@ -8,6 +8,12 @@
 
 Hi, my name is [Daan Demaecker](AboutMe.md), I am a game developer and aspiring Graphics Programmer. This GitHub page will tell you more about who I am, what I do, what I did, and what I want to do. 
 
+# Skills
+ - C++
+ - C#
+ - Unity
+ - Unreal engine 
+
 # Projects
 
 ## Personal projects
