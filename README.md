@@ -12,7 +12,9 @@ Hi, my name is [Daan Demaecker](AboutMe.md), I am a game developer and aspiring 
  - C++
  - C#
  - Unity
- - Unreal engine 
+ - Unreal engine
+ - XAML
+ - CMake
 
 # Projects
 
