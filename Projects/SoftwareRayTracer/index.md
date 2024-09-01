@@ -15,6 +15,8 @@ The performance will never be great as it runs purely on CPU, but it helped us u
 - Rendering primitives:  
   The raytracer can render primitives like triangles and spheres, which comprise most of 3D rendering.
 - Rendering .obj files:  
-  The ray tracer can render low poly .obj file at a decent framerate.
+  The ray tracer can render low-poly .obj file at a decent framerate.
 - PBR shading:  
-  Materials can give a glossiness, metaalness, roughness etc. and the raytracer  will handle these appropriately.  
+  Materials can give a glossiness, metalness, roughness, etc. and the raytracer  will handle these appropriately.
+- BRDF generation:
+  To improve performance, the objects are divided into small bounding boxes for easy raytracing checks.
