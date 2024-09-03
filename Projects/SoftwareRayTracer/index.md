@@ -4,9 +4,6 @@
 
 ## | [Projects](https://daandemaecker.github.io)  |    [About me](https://daandemaecker.github.io/AboutMe.html)  |
 
-
-<img src="../../Content/RayTracer.gif" alt="drawing"/>  
-
 ## Intro
 For my Graphics Programming 1 class, we made a CPU raytracer from scratch. 
 The performance will never be great as it runs purely on CPU, but it helped us understand core concepts of graphics programming and raytracing. 
@@ -14,8 +11,14 @@ The performance will never be great as it runs purely on CPU, but it helped us u
 ## Capabilities
 - Rendering primitives:  
   The raytracer can render primitives like triangles and spheres, which comprise most of 3D rendering.
+  
+<img src="../../Content/RayTracer.gif" alt="Image"/>  
+
 - Rendering .obj files:  
   The ray tracer can render low-poly .obj file at a decent framerate.
+  
+<img src="../../Content/LowPolyBunny.gif" alt="Image"/>  
+  
 - PBR shading:  
   Materials can give a glossiness, metalness, roughness, etc. and the raytracer  will handle these appropriately.
 - BRDF generation:
