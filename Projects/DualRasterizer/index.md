@@ -17,12 +17,16 @@ blue background = directX | gray background = CPU
 - Load and render meshes with diffuse texture.
 - Movable camera.  
 - Toggle rasterizer mode from hardware to software
+
+
 ### Hardware
 - Load and display diffuse textures with support for opacity.
 - Enable different sampler types:
     - Linear
     - Point
     - Anisotropic
+
+
 ### Software
 - Toggle shading mode:
     - Combined (Specular, normal map and gloss included)
