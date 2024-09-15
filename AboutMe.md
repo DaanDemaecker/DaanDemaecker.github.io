@@ -5,7 +5,8 @@
 ## | [Projects](README.md)  |    [About me](AboutMe.md)  |    [Resume](Content/DaanDemaeckerCV.pdf) |
 ## Intro
 I have always loved games and a couple of years ago I fell in love with everything behind them, from the first line of code to the final particle of polishing.  
-Because the industry is relatively new, I never even dreamed of making my own games until I discovered [**Digital Arts and Entertainment**](https://www.digitalartsandentertainment.be), but when I did, I was hooked.  
+Because the industry is relatively new, I never even dreamed of making my own games until I discoverered
+<a href="https://www.digitalartsandentertainment.be/" target="_blank">Digital Arts and Entertainment</a>, but when I did, I was hooked.  
 In the last year, my love and interest for Graphics Programming has also been growing steadily and I am more and more certain that's the path I want to pursue.
 
 ## Soft skills
