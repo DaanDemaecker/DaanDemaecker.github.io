@@ -2,7 +2,7 @@
 
 # [Software Raytracer](https://github.com/DaanDemaecker/RayTracer)
 
-## | [Projects](https://daandemaecker.github.io)  |    [About me](https://daandemaecker.github.io/AboutMe.html)  |
+## | [Projects](../../README.md)  |    [About me](../../AboutMe)  |    [Resume](../../Resume) |
 
 ## Intro
 For my Graphics Programming 1 class, we made a CPU raytracer from scratch. 

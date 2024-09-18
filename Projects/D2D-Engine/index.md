@@ -2,7 +2,7 @@
 
 µ# [D2D Engine - Bomberman](https://github.com/DaanDemaecker/D2DEngine)
 
-## | [Projects](https://daandemaecker.github.io)  |    [About me](https://daandemaecker.github.io/AboutMe.html)  |
+## | [Projects](../../README.md)  |    [About me](../../AboutMe)  |    [Resume](../../Resume) |
 
 <img src="../../Content/Bomberman.gif" alt="drawing"/>
 

@@ -2,7 +2,7 @@
 
 # [Dual Rasterizer](https://github.com/DaanDemaecker/DualRasterizer)
 
-## | [Projects](https://daandemaecker.github.io)  |    [About me](https://daandemaecker.github.io/AboutMe.html)  |
+## | [Projects](../../README.md)  |    [About me](../../AboutMe)  |    [Resume](../../Resume) |
 
 ## Intro
 For my Graphics Programming 1 class, we made a rasterizer that switches from DirectX to a self-made CPU rasterizer.  

@@ -2,7 +2,7 @@
 
 # [Cuphead remake](https://github.com/DaanDemaecker/CupheadRemake)
 
-## | [Projects](https://daandemaecker.github.io)  |    [About me](https://daandemaecker.github.io/AboutMe.html)  |
+## | [Projects](../../README.md)  |    [About me](../../AboutMe)  |    [Resume](../../Resume) |
 
 <img src="../../Content/Cuphead.gif" alt="drawing"/>
 

@@ -2,7 +2,7 @@
 
 # [Vulkan Renderer](https://github.com/DaanDemaecker/VulkanRenderer)
 
-## | [Projects](https://daandemaecker.github.io)  |    [About me](https://daandemaecker.github.io/AboutMe.html)  |
+## | [Projects](../../README.md)  |    [About me](../../AboutMe)  |    [Resume](../../Resume) |
 
 <img src="../../Content/VulkanRenderer3D.gif" alt="drawing"/>
 

@@ -2,7 +2,7 @@
 
 # [D3D-Lite-Engine](https://github.com/DaanDemaecker/D3D-Lite-Engine)
 
-## | [Projects](https://daandemaecker.github.io)  |    [About me](https://daandemaecker.github.io/AboutMe.html)  |
+## | [Projects](../../README.md)  |    [About me](../../AboutMe)  |    [Resume](../../Resume) |
 
 ## Motivation
 During my Game Development course at [Digital Arts and Entertainment](https://www.digitalartsandentertainment.be) in Belgium, we made our own basic 2D engine in our Programming 4 class.

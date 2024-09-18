@@ -2,7 +2,7 @@
 
 # [Warp Warfare](https://luckyelias.itch.io/group29-warp-warfare)
 
-## | [Projects](https://daandemaecker.github.io)  |    [About me](https://daandemaecker.github.io/AboutMe.html)  |
+## | [Projects](../../README.md)  |    [About me](../../AboutMe)  |    [Resume](../../Resume) |
 
 <img src="../../Content/WarpWarfare.png" alt="drawing" width="800"/>
 

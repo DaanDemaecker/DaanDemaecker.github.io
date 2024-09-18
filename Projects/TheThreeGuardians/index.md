@@ -2,7 +2,7 @@
 
 # [The Three Guardians](https://github.com/DaanDemaecker/TheThreeGuardians)
 
-## | [Projects](https://daandemaecker.github.io)  |    [About me](https://daandemaecker.github.io/AboutMe.html)  |
+## | [Projects](../../README.md)  |    [About me](../../AboutMe)  |    [Resume](../../Resume) |
 
 
 <img src="../../Content/TheThreeGuardians.gif" alt="drawing"/>
