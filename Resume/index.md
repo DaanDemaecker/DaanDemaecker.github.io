@@ -1,5 +1,3 @@
 <link href="../Content/StyleSheet.css" rel="stylesheet"/> 
 
-<div class="content">
-  <iframe src="../Content/DaanDemaeckerCV.pdf"></iframe>
-</div>
+  <iframe src="../Content/DaanDemaeckerCV.pdf" width="500" height="600"></iframe>
