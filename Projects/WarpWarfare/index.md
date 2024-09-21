@@ -29,3 +29,7 @@ of what my team and I accomplished together.
     - Final product:
       In the final product, the player gets shrunk when entering the portal until too small to be visible, gets teleported to the other portal, and then restored to their former size.
       <img src="Content/PortalIterationFinal.gif" alt="drawing" width="800"/>
+
+
+## Conclusion
+I had an incredible time making this projects with my coworkers and I am very proud of what we achieved together. This was one of my favorite projects I've ever worked on and I learned so much from it.
