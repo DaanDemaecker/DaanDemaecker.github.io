@@ -51,5 +51,5 @@ blue background = directX | gray background = CPU
 
 
 ## Conclusion
-
+This project was my first experience with graphics programming and it made me really interested and made me want to stay on this path in the future.
   
