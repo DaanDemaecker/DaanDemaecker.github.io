@@ -12,3 +12,33 @@ table {
 table td, table th {
     background-color: #0d1117;
 }
+
+/* styles.css */
+
+/* Remove bullet points and margin/padding from the list */
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+}
+
+/* Make the list items display horizontally */
+li {
+  display: inline;
+  margin-right: 10px; /* Add space between the items */
+}
+
+/* Style the dash between items */
+span {
+  margin-right: 10px;
+}
+
+/* Optional: Style for the links */
+a {
+  text-decoration: none;
+  color: black;
+}
+
+a:hover {
+  text-decoration: underline;
+}
