@@ -20,6 +20,4 @@ Hi, my name is [Daan Demaecker](./AboutMe), I am a game developer and aspiring G
 |[**VulkanRenderer**](./Projects/VulkanRenderer/)|[**Warp Warfare**](./Projects/WarpWarfare/)|[**D2D-Engine**](./Projects/D2D-Engine/)|
 |:----------------------------------------:|:----------------------------------------:|
 | Renderer using Vulkan Api | Vertical slice in Unity | Bomberman in custom 2D engine |
-|<a href="./Projects/VulkanRenderer/"><img src="Content/VulkanRenderer3D.gif" alt="drawing" width="300"/>
-|<a href="./Projects/WarpWarfare/"><img src="Content/WarpWarfare.png" alt="drawing" width="300"/>
-|<a href="./Projects/D2D-Engine/"><img src="Content/Bomberman.gif" alt="drawing" width="300"/>|
+|<a href="./Projects/VulkanRenderer/"><img src="Content/VulkanRenderer3D.gif" alt="drawing" width="300"/>|<a href="./Projects/WarpWarfare/"><img src="Content/WarpWarfare.png" alt="drawing" width="300"/>|<a href="./Projects/D2D-Engine/"><img src="Content/Bomberman.gif" alt="drawing" width="300"/>|
