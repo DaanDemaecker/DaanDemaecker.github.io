@@ -11,10 +11,6 @@
   </md-block>
 </div>
 
-
-
-## | [Projects](../Projects)  |    [About me](../AboutMe)  |    [Resume](../Resume) |
-
 ## Personal projects
 
 |[**VulkanRenderer**](VulkanRenderer/)|[**D3D-Lite-Engine**](D3D-Lite-Engine/)|
