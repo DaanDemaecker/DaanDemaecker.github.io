@@ -1,14 +1,15 @@
 <link href="../Content/StyleSheet.css" rel="stylesheet"/> 
 
-<ul>
-  <li><a href="../README.md">Home</a></li>
-  <span>-</span>
-  <li><a href="../Projects/">Projects</a></li>
-  <span>-</span>
-  <li><a href="../AboutMe">About me</a></li>
-  <span>-</span>
-  <li><a href="../Resume/">Resume</a></li>
-</ul>
+<div class="nav-bar">
+  <md-block>
+
+- <a href="../README.md" class="active">Home</a>
+- <a href="../Projects/" class="active">Projects</a>
+- <a href="../AboutMe/">About Me</a>
+- <a href="../Resume/">Resume</a>
+
+  </md-block>
+</div>
 
 
 
