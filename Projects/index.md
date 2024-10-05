@@ -1,3 +1,5 @@
+<link href="../Content/StyleSheet.css" rel="stylesheet"/> 
+
 ## | [Projects](../Projects)  |    [About me](../AboutMe)  |    [Resume](../Resume) |
 
 ## Personal projects
