@@ -62,7 +62,7 @@ a:hover {
 }
 
 /* Specific style for Home link */
-.selected {
+.nav-bar a.selected {
     color: blue;
 }
 
