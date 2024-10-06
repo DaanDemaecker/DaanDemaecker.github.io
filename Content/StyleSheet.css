@@ -63,6 +63,6 @@ a:hover {
 
 /* Specific style for Home link */
 .nav-bar a.selected {
-    color: blue;
+    color: #0366d6;
 }
 
