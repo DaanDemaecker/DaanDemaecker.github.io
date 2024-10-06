@@ -5,8 +5,8 @@
 <div class="nav-bar">
   <md-block>
 
-<a href="#" class="active">Home</a>
-- <a href="Projects/" class="active">Projects</a>
+<a href="#" class="selected">Home</a>
+- <a href="Projects/">Projects</a>
 - <a href="AboutMe/">About Me</a>
 - <a href="Resume/">Resume</a>
 

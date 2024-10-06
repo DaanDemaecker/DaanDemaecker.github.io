@@ -60,3 +60,9 @@ table td, table th {
 a:hover {
   text-decoration: underline;
 }
+
+/* Specific style for Home link */
+.selected {
+    color: blue;
+}
+
