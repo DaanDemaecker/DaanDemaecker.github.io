@@ -1,3 +1,7 @@
+.markdown-body>*:first-child{
+	display: none;
+}
+
 body{
  color:#e6edf3;
   background-color: #0d1117;
