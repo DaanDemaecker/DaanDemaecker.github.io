@@ -2,7 +2,16 @@
 
 # [D3D-Lite-Engine](https://github.com/DaanDemaecker/D3D-Lite-Engine)
 
-## | [Projects](../../README.md)  |    [About me](../../AboutMe)  |    [Resume](../../Resume) |
+<div class="nav-bar">
+  <md-block>
+
+<a href="../../">Home</a>
+- <a href="../../Projects/" class="selected">Projects</a>
+- <a href="../../AboutMe/">About Me</a>
+- <a href="../../Resume/">Resume</a>
+
+  </md-block>
+</div>
 
 ## Motivation
 During my Game Development course at [Digital Arts and Entertainment](https://www.digitalartsandentertainment.be) in Belgium, we made our own basic 2D engine in our Programming 4 class.
