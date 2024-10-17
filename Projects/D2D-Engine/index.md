@@ -1,8 +1,17 @@
 <link href="../../Content/StyleSheet.css" rel="stylesheet"/> 
 
-µ# [D2D Engine - Bomberman](https://github.com/DaanDemaecker/D2DEngine)
+# [D2D Engine - Bomberman](https://github.com/DaanDemaecker/D2DEngine)
 
-## | [Projects](../../README.md)  |    [About me](../../AboutMe)  |    [Resume](../../Resume) |
+<div class="nav-bar">
+  <md-block>
+
+<a href="../../">Home</a>
+- <a href="../../Projects/" class="selected">Projects</a>
+- <a href="../../AboutMe/">About Me</a>
+- <a href="../../Resume/">Resume</a>
+
+  </md-block>
+</div>
 
 <img src="../../Content/Bomberman.gif" alt="drawing"/>
 
