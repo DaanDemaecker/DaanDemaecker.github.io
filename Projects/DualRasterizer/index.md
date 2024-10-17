@@ -2,7 +2,16 @@
 
 # [Dual Rasterizer](https://github.com/DaanDemaecker/DualRasterizer)
 
-## | [Projects](../../README.md)  |    [About me](../../AboutMe)  |    [Resume](../../Resume) |
+<div class="nav-bar">
+  <md-block>
+
+<a href="../../">Home</a>
+- <a href="../../Projects/" class="selected">Projects</a>
+- <a href="../../AboutMe/">About Me</a>
+- <a href="../../Resume/">Resume</a>
+
+  </md-block>
+</div>
 
 ## Intro
 For my Graphics Programming 1 class, we made a rasterizer that switches from DirectX to a self-made CPU rasterizer.  
