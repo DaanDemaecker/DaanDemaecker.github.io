@@ -2,7 +2,16 @@
 
 # [The Three Guardians](https://github.com/DaanDemaecker/TheThreeGuardians)
 
-## | [Projects](../../README.md)  |    [About me](../../AboutMe)  |    [Resume](../../Resume) |
+<div class="nav-bar">
+  <md-block>
+
+<a href="../../">Home</a>
+- <a href="../../Projects/" class="selected">Projects</a>
+- <a href="../../AboutMe/">About Me</a>
+- <a href="../../Resume/">Resume</a>
+
+  </md-block>
+</div>
 
 
 <img src="../../Content/TheThreeGuardians.gif" alt="drawing"/>
