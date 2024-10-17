@@ -4,17 +4,17 @@
 
 body{
  color:#e6edf3;
-  background-color: #4c4d50;
+  background-color: #141414;
   text-align: left;
 }
 
 /* Style for the grid items */
 table {
-    background-color: #0d1117;
+    background-color: #141414;
 }
 
 table td, table th {
-    background-color: #0d1117;
+    background-color: #141414;
 }
 
 /* styles.css */
