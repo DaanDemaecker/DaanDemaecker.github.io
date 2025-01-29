@@ -15,7 +15,7 @@
 
 ## Personal projects
 
-|[**VulkanRenderer**](VulkanRenderer/)|[**D3D-Lite-Engine**](DDM3-Lite-Engine/)|
+|[**VulkanRenderer**](VulkanRenderer/)|[**DDM3-Lite-Engine**](DDM3-Lite-Engine/)|
 |:----------------------------------------:|:----------------------------------------:|
 | Renderer using Vulkan Api | 3D Engine using my renderer |
 |<a href="VulkanRenderer/"><img src="../Content/VulkanRenderer3D.gif" alt="drawing" width="300"/>|<a href="DDM3-Lite-Engine/"><img src="../Content/DDM3-Lite-Engine.gif" alt="drawing" width="300"/>|
