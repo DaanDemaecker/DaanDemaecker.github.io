@@ -21,7 +21,7 @@ One of them is obviously more performant (try to guess which one), but it also t
 The CPU version will never be usable for bigger projects, but it was very satisfying to see built week by week.  
 
 ## Software
-Visual studio c++
+Visual studio c++  
 DirectX11
 
 # Link
