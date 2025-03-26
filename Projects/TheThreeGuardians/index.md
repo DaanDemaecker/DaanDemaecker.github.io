@@ -1,6 +1,6 @@
 <link href="../../Content/StyleSheet.css" rel="stylesheet"/> 
 
-# [The Three Guardians](https://github.com/DaanDemaecker/TheThreeGuardians)
+# <a href="https://github.com/DaanDemaecker/TheThreeGuardians" target="_blank">[T](The Three Guardians)</a>
 
 <div class="nav-bar">
   <md-block>
@@ -15,7 +15,13 @@
 
 <img src="../../Content/TheThreeGuardians.gif" alt="drawing"/>
 
-## Intro
+## Description
 For my Game Mechanics class during my second year of Game Development, we were given 2 keywords and the task of creating a game in Unity based on those 2 keywords.  
 The keywords I received were ***Turn-Based*** and ***BossFight*** and my gears started turning.
 I created a game where the player fights 3 bosses simultaneously with 3 weapons that each only damage their assigned boss.  
+
+## Software
+Unity
+
+## Link
+<a href="https://github.com/DaanDemaecker/TheThreeGuardians" target="_blank">[T](https://github.com/DaanDemaecker/TheThreeGuardians)</a>
