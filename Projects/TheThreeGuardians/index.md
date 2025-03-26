@@ -24,4 +24,4 @@ I created a game where the player fights 3 bosses simultaneously with 3 weapons 
 Unity
 
 ## Link
-<a href="https://github.com/DaanDemaecker/TheThreeGuardians" target="_blank">[T](https://github.com/DaanDemaecker/TheThreeGuardians)</a>
+<a href="https://github.com/DaanDemaecker/TheThreeGuardians" target="_blank">https://github.com/DaanDemaecker/TheThreeGuardians</a>
