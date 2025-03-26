@@ -6,7 +6,6 @@
   <md-block>
 
 <a href="../">Home</a>
-- <a href="../Projects/">Projects</a>
 - <a href="../AboutMe/">About Me</a>
 - <a href="../Resume/" class="selected">Resume</a>
 
