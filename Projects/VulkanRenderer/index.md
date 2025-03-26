@@ -1,6 +1,6 @@
 <link href="../../Content/StyleSheet.css" rel="stylesheet"/> 
 
-# [Vulkan Renderer](https://github.com/DaanDemaecker/VulkanRenderer)
+# <a href="https://github.com/DaanDemaecker/VulkanRenderer" target="_blank">Vulkan Renderer</a>
 
 <div class="nav-bar">
   <md-block>
@@ -25,4 +25,4 @@ CMake
 
 
 # Link
-[https://github.com/DaanDemaecker/VulkanRenderer](https://github.com/DaanDemaecker/VulkanRenderer)
+<a href="https://github.com/DaanDemaecker/VulkanRenderer" target="_blank">Vulkan Renderer</a>

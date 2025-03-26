@@ -21,4 +21,4 @@ This project was a group project, with 4 artists, 1 sound designer, and me as th
 Unity
 
 ## Link
-# <a href="https://luckyelias.itch.io/group29-warp-warfare" target="_blank">Warp Warfare</a>
+<a href="https://luckyelias.itch.io/group29-warp-warfare" target="_blank">https://luckyelias.itch.io/group29-warp-warfare</a>
