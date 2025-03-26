@@ -1,6 +1,6 @@
 <link href="../../Content/StyleSheet.css" rel="stylesheet"/> 
 
-# <a href="https://github.com/DaanDemaecker/TheThreeGuardians" target="_blank">[T](The Three Guardians)</a>
+# <a href="https://github.com/DaanDemaecker/TheThreeGuardians" target="_blank">The Three Guardians</a>
 
 <div class="nav-bar">
   <md-block>
