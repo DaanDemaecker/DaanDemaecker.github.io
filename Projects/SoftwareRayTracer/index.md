@@ -20,7 +20,7 @@ For my Graphics Programming 1 class, we made a CPU raytracer from scratch.
 The performance will never be great as it runs purely on CPU, but it helped us understand core concepts of graphics programming and raytracing. 
 
 ## Software
-Visual studio C++µ
+Visual studio C++
 
 ## Link
 <a href="https://github.com/DaanDemaecker/RayTracer" target="_blank">https://github.com/DaanDemaecker/RayTracer</a>
