@@ -18,7 +18,11 @@ table td, table th {
 }
 
 a:link {
-  color: red;
+  color: #070094;
+}
+
+a:selected {
+  color: #070094;
 }
 
 /* styles.css */
