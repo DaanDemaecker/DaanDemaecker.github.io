@@ -4,7 +4,7 @@
 
 body{
  color:#e6edf3;
-  background-color: #686E94;
+  background-color: #070094;
   text-align: left;
 }
 
@@ -18,11 +18,11 @@ table td, table th {
 }
 
 a:link {
-  color: #070094;
+  color: #686E94;
 }
 
 a:selected {
-  color: #070094;
+  color: #686E94;
 }
 
 /* styles.css */
