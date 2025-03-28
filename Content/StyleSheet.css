@@ -17,6 +17,10 @@ table td, table th {
     background-color: #141414;
 }
 
+a:link {
+  color: red;
+}
+
 /* styles.css */
 
 /* NavBar Styles */
