@@ -21,8 +21,10 @@ Hi, my name is [Daan Demaecker](./AboutMe), I am a game developer and aspiring G
 |[**VulkanRenderer**](Projects/VulkanRenderer/)|[**DDM3-Lite-Engine**](Projects/DDM3-Lite-Engine/)|[**Souper Bloody**](Projects/SouperBloody/)|
 |:----------------------------------------:|:----------------------------------------:|
 | Renderer using Vulkan Api | 3D Engine using my renderer | Winning Gamejam Game in unity |
-|<a href="Projects/VulkanRenderer/"><img src="Content/VulkanRenderer3D.gif" alt="drawing" width="300"/>|<a href="Projects/DDM3-Lite-Engine/"><img src="Content/DDM3-Lite-Engine.gif" alt="drawing" width="300"/>|<a href="Projects/SouperBloody/"><img src="Content/SouperBloody.png" alt="drawing" width="300"/>|
-
+|<a href="Projects/VulkanRenderer/"><img src="Content/VulkanRenderer3D.gif" alt="drawing" width="300"/>|<a href="Projects/DDM3-Lite-Engine/"><img src="Content/DDM3-Lite-Engine.gif" alt="drawing" width="300"/>|<a href="Projects/SouperBloody/"><img src="Content/SouperBloody.gif" alt="drawing" width="300"/>|
+|[**DirectX12 Renderer (WIP)**](Projects/DirectX12Renderer/)|
+| Renderer using DirectX12 Api |
+|<a href="Projects/SoftwareRayTracer/"><img src="Content/DirectX12.gif" alt="drawing" width="300"/>|
 
 ## School projects
 

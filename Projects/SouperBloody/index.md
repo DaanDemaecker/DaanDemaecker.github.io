@@ -12,7 +12,7 @@
   </md-block>
 </div>
 
-<img src="../../Content/SouperBloody.png" alt="drawing" width="800"/>
+<img src="../../Content/SouperBloody.gif" alt="drawing" width="800"/>
 
 ## Description
 With a team of 3 artists and 3 programmers, we *WON* our school's yearly game jam. It was an amazing experience and taught us a lot about teamwork. The names of my colleagues can be found on our [Itch.io](https://simonhuysentruyt.itch.io/souper-bloody).
