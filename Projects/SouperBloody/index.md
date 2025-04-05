@@ -1,6 +1,6 @@
 <link href="../../Content/StyleSheet.css" rel="stylesheet"/> 
 
-# <a href="https://simonhuysentruyt.itch.io/souper-bloody target="_blank">Warp Warfare</a>
+# <a href="https://simonhuysentruyt.itch.io/souper-bloody" target="_blank">Souper Bloody</a>
 
 <div class="nav-bar">
   <md-block>
