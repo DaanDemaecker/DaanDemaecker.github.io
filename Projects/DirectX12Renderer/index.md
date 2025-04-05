@@ -1,6 +1,6 @@
 <link href="../../Content/StyleSheet.css" rel="stylesheet"/> 
 
-# <a href="https://github.com/DaanDemaecker/DX12Renderer target="_blank">Vulkan Renderer</a>
+# <a href="https://github.com/DaanDemaecker/DX12Renderer" target="_blank">DirectX12 Renderer</a>
 
 <div class="nav-bar">
   <md-block>
