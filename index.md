@@ -45,7 +45,7 @@
 
   <tr>
     <th><a href="Projects/VulkanRenderer/"><img src="Content/VulkanRenderer3D.gif" alt="drawing" width="100%"/></a></th>
-    <th><a href="Projects/DDM-Lite-Engine//"><img src="Content/DDM3-Lite-Engine.gif" alt="drawing" width="100%"/></a></th>
+    <th><a href="Projects/DDM-Lite-Engine/"><img src="Content/DDM3-Lite-Engine.gif" alt="drawing" width="100%"/></a></th>
     <th><a href="Projects/SouperBloody/"><img src="Content/SouperBloody.gif" alt="drawing" width="100%"/></a></th>
   </tr>
 
@@ -62,13 +62,41 @@
 
 ## School projects
 
-|[**Warp Warfare**](Projects/WarpWarfare/)|[**D2D-Engine**](Projects/D2D-Engine/)|[**Cuphead Remake**](Projects/CupheadRemake/)|
-|:----------------------------------------:|:----------------------------------------:|:----------------------------------------:|
-| Vertical slice in Unity| Bomberman in custom 2D engine | 2D platformer remake |
-|<a href="Projects/WarpWarfare/"><img src="Content/WarpWarfare.png" alt="drawing" width="300"/>|<a href="Projects/D2D-Engine/"><img src="Content/Bomberman.gif" alt="drawing" width="300"/>|<a href="Projects/CupheadRemake/"><img src="Content/Cuphead.gif" alt="drawing" width="300"/>|
-|[**Raytracer**](Projects/SoftwareRayTracer/)|[**Dual Rasterizer**](Projects/DualRasterizer/)|[**The Three Guardians**](Projects/TheThreeGuardians/)|
-| CPU raytracer | DirectX and CPU rasterizer | Mechanics based game made with unity |
-|<a href="Projects/SoftwareRayTracer/"><img src="Content/RayTracer.gif" alt="drawing" width="300"/>|<a href="Projects/DualRasterizer/"><img src="Content/DualRasterizer.gif" alt="drawing" width="300"/>| <a href="Projects/TheThreeGuardians/"><img src="Content/TheThreeGuardians.gif" alt="drawing" width="300"/>
+<table style="width:100%">
+  <tr>
+    <th> <a href="Projects/WarpWarfare/"><b>Warp Warfare</b></a></th>
+    <th> <a href="Projects/D2D-Engine/"><b>D2D-Engine</b></a></th>
+    <th> <a href="Projects/CupheadRemake/"><b>Cuphead Remake</b></a></th>
+  </tr>
+
+  <tr>
+    <th>Vertical slice in unity</th>
+    <th>Bomberman remake in custom 2D engine </th>
+    <th>2D Platformer remake</th>
+  </tr>
+
+  <tr>
+    <th><a href="Projects/WarpWarfare/"><img src="Content/WarpWarfare.png" alt="drawing" width="100%"/></a></th>
+    <th><a href="Projects/D2D-Engine/"><img src="Content/Bomberman.gif" alt="drawing" width="100%"/></a></th>
+    <th><a href="Projects/CupheadRemake/"><img src="Content/Cuphead.gif" alt="drawing" width="100%"/></a></th>
+  </tr>
+
+  <tr>
+    <th><a href="Projects/SoftwareRayTracer/"><b>Software raytracer</b></a></th>
+    <th><a href="Projects/DualRasterizer/"><b>Dual rasterizer</b></a></th>
+    <th><a href="Projects/TheThreeGuardians/"><b>The three gardians</b></a></th>
+  </tr>
+  <tr>
+    <th><b>CPU Raytracer</b></th>
+    <th><b>DirectX and CPU rasterizer</b></th>
+    <th><b>Mechanics based game in Unity</b></th>
+  </tr>
+  <tr>
+    <th><a href="Projectx/SoftwareRayTracer/"><img src="Content/RayTracer.gif" alt="drawing" width="100%"></a></th>
+    <th><a href="Projectx/DualRasterizer/"><img src="Content/DualRasterizer.gif" alt="drawing" width="100%"></a></th>
+    <th><a href="Projectx/TheThreeGuardians/"><img src="Content/TheThreeGuardians.gif" alt="drawing" width="100%"></a></th>
+  </tr>
+</table>
 
 </body>
 </html>
