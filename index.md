@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html>
 <head>
   <link href="Content/StyleSheet.css" rel="stylesheet"/>
@@ -26,7 +25,7 @@
   Hi, my name is <a href="./AboutMe">Daan Demaecker</a>, I am a game developer and aspiring Graphics Programmer.
 </p>
 
-<h1>Projects</h2>
+<h1>Projects</h1>
 
 <h2>Private projects</h2>
 
