@@ -10,7 +10,7 @@
 </a>
 <a href="https://github.com/DaanDemaecker">
   <img src="https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png" alt="GitHub" width="25"/>
-</a>
+</a> 
 </h1>
 
 <div class="nav-bar">
