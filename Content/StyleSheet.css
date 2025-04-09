@@ -79,3 +79,25 @@ a:hover {
 	gap: 1rem;
   }
   
+  .card
+  {
+	padding: 2em;
+	border: 1px solid rgb(75, 82, 92);
+	border-radius: 10px;
+	background-color: #222429;
+	text-align: center;
+  }
+
+  .grid-container
+  {
+	display: grid;
+	border: 1ppx solid red;
+	grid-template-columns: repeat(auto-fit, minmax(300, 1fr));
+	gap: 15px;
+	justify-content: center;
+  }
+
+  .table-title
+  {
+	background-color: solid white;
+  }
