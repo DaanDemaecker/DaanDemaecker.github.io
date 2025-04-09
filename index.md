@@ -29,71 +29,77 @@
 
 <h2>Private projects</h2>
 
-<table style="width:100%">
-  <tr>
-    <th> <a href="Projects/VulkanRenderer/"><b>VulkanRenderer</b></a></th>
-    <th> <a href="Projects/DDM3-Lite-Engine/"><b>DDM3-Lite-Engine</b></a></th>
-    <th> <a href="Projects/SouperBloody/"><b>Souper Bloody</b></a></th>
-  </tr>
+<div class="container">
 
-  <tr>
-    <th>Renderer using Vulkan API </th>
-    <th>3D Engine using my renderer </th>
-    <th>Winning Gamejam Game in Unity</th>
-  </tr>
+  <div>
+    <table style="width:300px">
+      <tr><td><a href="Projects/VulkanRenderer/"><b>VulkanRenderer</b></a></td></tr>
+      <tr><td>Renderer using Vulkan API</td></tr>
+      <tr><td><a href="Projects/VulkanRenderer/"><img src="Content/VulkanRenderer3D.gif" alt="drawing" /></a></td></tr>
+    </table>
+  </div>
 
-  <tr>
-    <th><a href="Projects/VulkanRenderer/"><img src="Content/VulkanRenderer3D.gif" alt="drawing" width="100%"/></a></th>
-    <th><a href="Projects/DDM-Lite-Engine/"><img src="Content/DDM3-Lite-Engine.gif" alt="drawing" width="100%"/></a></th>
-    <th><a href="Projects/SouperBloody/"><img src="Content/SouperBloody.gif" alt="drawing" width="100%"/></a></th>
-  </tr>
+  <div>
+    <table style="width:300px">
+      <tr><td><a href="Projects/DDM3-Lite-Engine/"><b>DDM3-Lite-Engine</b></a></td></tr>
+      <tr><td>3D Engine using my renderer</td></tr>
+      <tr><td><a href="Projects/DDM3-Lite-Engine/"><img src="Content/DDM3-Lite-Engine.gif" alt="drawing" /></a></td></tr>
+    </table>
+  </div>
 
-  <tr>
-    <th><a href="Projects/DirectX12Renderer/"><b>DirectX12 Renderer (WIP)</b></a></th>
-  </tr>
-  <tr>
-    <th><b>Renderer using DirectX12 API</b></th>
-  </tr>
-  <tr>
-    <th><a href="Projectx/DirectX12Renderer/"><img src="Content/DirectX12.gif" alt="drawing" width="100%"></a></th>
-  </tr>
-</table>
+  <div>
+    <table style="width:300px">
+      <tr><td><a href="Projects/SouperBloody/"><b>Souper Bloody</b></a></td></tr>
+      <tr><td>Winning Gamejam Game in Unity</td></tr>
+      <tr><td><a href="Projects/SouperBloody/"><img src="Content/SouperBloody.gif" alt="drawing" /></a></td></tr>
+    </table>
+  </div>
+
+  <div>
+    <table style="width:300px">
+      <tr><td><a href="Projects/DirectX12Renderer/"><b>DirectX12 Renderer</b></a></td></tr>
+      <tr><td>Renderer using DirectX12 API</td></tr>
+      <tr><td><a href="Projects/DirectX12Renderer/"><img src="Content/DirectX12.gif" alt="drawing" /></a></td></tr>
+    </table>
+  </div>
+
+</div>
 
 <h2>School projects</h2>
 
 <table style="width:100%">
   <tr>
-    <th> <a href="Projects/WarpWarfare/"><b>Warp Warfare</b></a></th>
-    <th> <a href="Projects/D2D-Engine/"><b>D2D-Engine</b></a></th>
-    <th> <a href="Projects/CupheadRemake/"><b>Cuphead Remake</b></a></th>
+    <td> <a href="Projects/WarpWarfare/"><b>Warp Warfare</b></a></td>
+    <td> <a href="Projects/D2D-Engine/"><b>D2D-Engine</b></a></td>
+    <td> <a href="Projects/CupheadRemake/"><b>Cuphead Remake</b></a></td>
   </tr>
 
   <tr>
-    <th>Vertical slice in unity</th>
-    <th>Bomberman remake in custom 2D engine </th>
-    <th>2D Platformer remake</th>
+    <td>Vertical slice in unity</td>
+    <td>Bomberman remake in custom 2D engine </td>
+    <td>2D Platformer remake</td>
   </tr>
 
   <tr>
-    <th><a href="Projects/WarpWarfare/"><img src="Content/WarpWarfare.png" alt="drawing" width="100%"/></a></th>
-    <th><a href="Projects/D2D-Engine/"><img src="Content/Bomberman.gif" alt="drawing" width="100%"/></a></th>
-    <th><a href="Projects/CupheadRemake/"><img src="Content/Cuphead.gif" alt="drawing" width="100%"/></a></th>
+    <td><a href="Projects/WarpWarfare/"><img src="Content/WarpWarfare.png" alt="drawing" width="100%"/></a></td>
+    <td><a href="Projects/D2D-Engine/"><img src="Content/Bomberman.gif" alt="drawing" width="100%"/></a></td>
+    <td><a href="Projects/CupheadRemake/"><img src="Content/Cuphead.gif" alt="drawing" width="100%"/></a></td>
   </tr>
 
   <tr>
-    <th><a href="Projects/SoftwareRayTracer/"><b>Software raytracer</b></a></th>
-    <th><a href="Projects/DualRasterizer/"><b>Dual rasterizer</b></a></th>
-    <th><a href="Projects/TheThreeGuardians/"><b>The three gardians</b></a></th>
+    <td><a href="Projects/SoftwareRayTracer/"><b>Software raytracer</b></a></td>
+    <td><a href="Projects/DualRasterizer/"><b>Dual rasterizer</b></a></td>
+    <td><a href="Projects/TheThreeGuardians/"><b>The three gardians</b></a></td>
   </tr>
   <tr>
-    <th><b>CPU Raytracer</b></th>
-    <th><b>DirectX and CPU rasterizer</b></th>
-    <th><b>Mechanics based game in Unity</b></th>
+    <td><b>CPU Raytracer</b></th>
+    <td><b>DirectX and CPU rasterizer</b></td>
+    <td><b>Mechanics based game in Unity</b></td>
   </tr>
   <tr>
-    <th><a href="Projectx/SoftwareRayTracer/"><img src="Content/RayTracer.gif" alt="drawing" width="100%"></a></th>
-    <th><a href="Projectx/DualRasterizer/"><img src="Content/DualRasterizer.gif" alt="drawing" width="100%"></a></th>
-    <th><a href="Projectx/TheThreeGuardians/"><img src="Content/TheThreeGuardians.gif" alt="drawing" width="100%"></a></th>
+    <td><a href="Projectx/SoftwareRayTracer/"><img src="Content/RayTracer.gif" alt="drawing" width="100%"></a></td>
+    <td><a href="Projectx/DualRasterizer/"><img src="Content/DualRasterizer.gif" alt="drawing" width="100%"></a></td>
+    <td><a href="Projectx/TheThreeGuardians/"><img src="Content/TheThreeGuardians.gif" alt="drawing" width="100%"></a></td>
   </tr>
 </table>
 
