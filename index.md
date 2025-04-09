@@ -1,4 +1,7 @@
+<!DOCTYPE html>
+<html>
 <link href="Content/StyleSheet.css" rel="stylesheet"/> 
+<body>
 
 <h1> Daan Demaecker <href="https://www.linkedin.com/in/daan-demaecker-3737b0265/"><img src="https://content.linkedin.com/content/dam/me/business/en-us/amp/brand-site/v2/bg/LI-Bug.svg.original.svg" alt="drawing" width="25"/> <a href="https://github.com/DaanDemaecker"><img src="https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png" alt="drawing" width="25"/> </h1>
 
@@ -55,3 +58,6 @@ Hi, my name is [Daan Demaecker](./AboutMe), I am a game developer and aspiring G
 |[**Raytracer**](Projects/SoftwareRayTracer/)|[**Dual Rasterizer**](Projects/DualRasterizer/)|[**The Three Guardians**](Projects/TheThreeGuardians/)|
 | CPU raytracer | DirectX and CPU rasterizer | Mechanics based game made with unity |
 |<a href="Projects/SoftwareRayTracer/"><img src="Content/RayTracer.gif" alt="drawing" width="300"/>|<a href="Projects/DualRasterizer/"><img src="Content/DualRasterizer.gif" alt="drawing" width="300"/>| <a href="Projects/TheThreeGuardians/"><img src="Content/TheThreeGuardians.gif" alt="drawing" width="300"/>
+
+</body>
+</html>
