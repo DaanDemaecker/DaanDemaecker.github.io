@@ -1,19 +1,30 @@
 <!DOCTYPE html>
 <html>
-<link href="Content/StyleSheet.css" rel="stylesheet"/> 
+<head>
+  <link href="Content/StyleSheet.css" rel="stylesheet"/>
+</head>
 <body>
 
-# Daan Demaecker | <a href="https://www.linkedin.com/in/daan-demaecker-3737b0265/"><img src="https://content.linkedin.com/content/dam/me/business/en-us/amp/brand-site/v2/bg/LI-Bug.svg.original.svg" alt="drawing" width="25"/> | <a href="https://github.com/DaanDemaecker"><img src="https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png" alt="drawing" width="25"/>
+<h1>Daan Demaecker
+<a href="https://www.linkedin.com/in/daan-demaecker-3737b0265/">
+  <img src="https://content.linkedin.com/content/dam/me/business/en-us/amp/brand-site/v2/bg/LI-Bug.svg.original.svg" alt="LinkedIn" width="25"/>
+</a>
+<a href="https://github.com/DaanDemaecker">
+  <img src="https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png" alt="GitHub" width="25"/>
+</a>
+</h1>
 
 <div class="nav-bar">
-<h2>
-<a href="#" class="selected">Home</a>
-- <a href="AboutMe/">About Me</a>
-- <a href="Resume/">Resume</a>
-</h2>
+  <h2>
+    <a href="#" class="selected">Home</a>
+    - <a href="AboutMe/">About Me</a>
+    - <a href="Resume/">Resume</a>
+  </h2>
 </div>
 
-Hi, my name is [Daan Demaecker](./AboutMe), I am a game developer and aspiring Graphics Programmer. This GitHub page will tell you more about who I am, what I do, what I did, and what I want to do. 
+<p>
+  Hi, my name is <a href="./AboutMe">Daan Demaecker</a>, I am a game developer and aspiring Graphics Programmer.
+</p>
 
 # Featured projects
 
