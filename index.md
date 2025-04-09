@@ -21,9 +21,9 @@ Hi, my name is [Daan Demaecker](./AboutMe), I am a game developer and aspiring G
 
 <table style="width:100%">
   <tr>
-    <th> <href="Projects/VulkanRenderer/"><b>VulkanRenderer</b></th>
-    <th> <href="Projects/DDM3-Lite-Engine/"><b>DDM3-Lite-Engine</b></th>
-    <th> <href="Projects/SouperBloody/"><b>Souper Bloody</b></th>
+    <th> <a href="Projects/VulkanRenderer/"><b>VulkanRenderer</b></th>
+    <th> <a href="Projects/DDM3-Lite-Engine/"><b>DDM3-Lite-Engine</b></th>
+    <th> <a href="Projects/SouperBloody/"><b>Souper Bloody</b></th>
   </tr>
 
   <tr>
@@ -39,7 +39,7 @@ Hi, my name is [Daan Demaecker](./AboutMe), I am a game developer and aspiring G
   </tr>
 
   <tr>
-    <th><href="Projects/DirectX12Renderer/"><b>DirectX12 Renderer (WIP)</b></th>
+    <th><a href="Projects/DirectX12Renderer/"><b>DirectX12 Renderer (WIP)</b></th>
   </tr>
   <tr>
     <th><b>Renderer using DirectX12 API</b></th>
