@@ -16,9 +16,9 @@
 
 <div class="nav-bar">
   <h2>
-    <a href="#" class="selected">Home</a>
-    - <a href="AboutMe/">About Me</a>
-    - <a href="Resume/">Resume</a>
+    <a href="#">Home</a>
+    - <a href="AboutMe/" class="selected">About Me</a>
+    - <a href="Resume/" class="selected">Resume</a>
   </h2>
 </div>
 
@@ -26,9 +26,9 @@
   Hi, my name is <a href="./AboutMe">Daan Demaecker</a>, I am a game developer and aspiring Graphics Programmer.
 </p>
 
-# Featured projects
+<h1>Projects</h2>
 
-## Personal projects
+<h2>Private projects</h2>
 
 <table style="width:100%">
   <tr>
@@ -60,7 +60,7 @@
   </tr>
 </table>
 
-## School projects
+<h2>School projects</h2>
 
 <table style="width:100%">
   <tr>
