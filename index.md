@@ -3,13 +3,11 @@
 <h1> Daan Demaecker <href="https://www.linkedin.com/in/daan-demaecker-3737b0265/"><img src="https://content.linkedin.com/content/dam/me/business/en-us/amp/brand-site/v2/bg/LI-Bug.svg.original.svg" alt="drawing" width="25"/> <a href="https://github.com/DaanDemaecker"><img src="https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png" alt="drawing" width="25"/> </h1>
 
 <div class="nav-bar">
-  <md-block>
-
-<a href="#">Home</a>
-- <a href="AboutMe/" class="selected">About Me</a>
-- <a href="Resume/" class="selected">Resume</a>
-
-  </md-block>
+<h2>
+<a href="#" class="selected">Home</a>
+- <a href="AboutMe/">About Me</a>
+- <a href="Resume/">Resume</a>
+</h2>
 </div>
 
 Hi, my name is [Daan Demaecker](./AboutMe), I am a game developer and aspiring Graphics Programmer. This GitHub page will tell you more about who I am, what I do, what I did, and what I want to do. 
@@ -18,13 +16,35 @@ Hi, my name is [Daan Demaecker](./AboutMe), I am a game developer and aspiring G
 
 ## Personal projects
 
-|[**VulkanRenderer**](Projects/VulkanRenderer/)|[**DDM3-Lite-Engine**](Projects/DDM3-Lite-Engine/)|[**Souper Bloody**](Projects/SouperBloody/)|
-|:----------------------------------------:|:----------------------------------------:|
-| Renderer using Vulkan Api | 3D Engine using my renderer | Winning Gamejam Game in unity |
-|<a href="Projects/VulkanRenderer/"><img src="Content/VulkanRenderer3D.gif" alt="drawing" width="300"/>|<a href="Projects/DDM3-Lite-Engine/"><img src="Content/DDM3-Lite-Engine.gif" alt="drawing" width="300"/>|<a href="Projects/SouperBloody/"><img src="Content/SouperBloody.gif" alt="drawing" width="300"/>|
-|[**DirectX12 Renderer (WIP)**](Projects/DirectX12Renderer/)|
-| Renderer using DirectX12 Api |
-|<a href="Projects/DirectX12Renderer/"><img src="Content/DirectX12.gif" alt="drawing" width="300"/>|
+<table style="width:100%">
+  <tr>
+    <th> <href="Projects/VulkanRenderer/"><b>VulkanRenderer</b></th>
+    <th> <href="Projects/DDM3-Lite-Engine/"><b>DDM3-Lite-Engine</b></th>
+    <th> <href="Projects/SouperBloody/"><b>Souper Bloody</b></th>
+  </tr>
+
+  <tr>
+    <th>Renderer using Vulkan API </th>
+    <th>3D Engine using my renderer </th>
+    <th>Winning Gamejam Game in Unity</th>
+  </tr>
+
+  <tr>
+    <th><a href="Projects/VulkanRenderer/"><img src="Content/VulkanRenderer3D.gif" alt="drawing" width="100%"/></th>
+    <th><a href="Projects/DDM-Lite-Engine//"><img src="Content/DDM3-Lite-Engine.gif" alt="drawing" width="100%"/></th>
+    <th><a href="Projects/SouperBloody/"><img src="Content/SouperBloody.gif" alt="drawing" width="100%"/></th>
+  </tr>
+
+  <tr>
+    <th><href="Projects/DirectX12Renderer/"><b>DirectX12 Renderer (WIP)</b></th>
+  </tr>
+  <tr>
+    <th><b>Renderer using DirectX12 API</b></th>
+  </tr>
+  <tr>
+    <th><a href="Projectx/DirectX12Renderer/"><img src="Content/DirectX12.gif" alt="drawing" width="100%"></th>
+  </tr>
+</table>
 
 ## School projects
 
