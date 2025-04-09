@@ -67,41 +67,57 @@
 
 <h2>School projects</h2>
 
-<table style="width:100%">
-  <tr>
-    <td> <a href="Projects/WarpWarfare/"><b>Warp Warfare</b></a></td>
-    <td> <a href="Projects/D2D-Engine/"><b>D2D-Engine</b></a></td>
-    <td> <a href="Projects/CupheadRemake/"><b>Cuphead Remake</b></a></td>
-  </tr>
+<div class="container">
 
-  <tr>
-    <td>Vertical slice in unity</td>
-    <td>Bomberman remake in custom 2D engine </td>
-    <td>2D Platformer remake</td>
-  </tr>
+  <div>
+    <table style="width:300px">
+      <tr><td><a href="Projects/WarpWarfare/"><b>Warp Warfare</b></a></td></tr>
+      <tr><td>Vertical slice in Unity</td></tr>
+      <tr><td><a href="Projects/WarpWarfare/"><img src="Content/WarpWarfare.png" alt="drawing" /></a></td></tr>
+    </table>
+  </div>
 
-  <tr>
-    <td><a href="Projects/WarpWarfare/"><img src="Content/WarpWarfare.png" alt="drawing" width="100%"/></a></td>
-    <td><a href="Projects/D2D-Engine/"><img src="Content/Bomberman.gif" alt="drawing" width="100%"/></a></td>
-    <td><a href="Projects/CupheadRemake/"><img src="Content/Cuphead.gif" alt="drawing" width="100%"/></a></td>
-  </tr>
+  <div>
+    <table style="width:300px">
+      <tr><td><a href="Projects/D2D-Engine/"><b>D2D-Engine</b></a></td></tr>
+      <tr><td>Bomberman remake in custom 2D engine</td></tr>
+      <tr><td><a href="Projects/D2D-Engine/"><img src="Content/Bomberman.gif" alt="drawing" /></a></td></tr>
+    </table>
+  </div>
 
-  <tr>
-    <td><a href="Projects/SoftwareRayTracer/"><b>Software raytracer</b></a></td>
-    <td><a href="Projects/DualRasterizer/"><b>Dual rasterizer</b></a></td>
-    <td><a href="Projects/TheThreeGuardians/"><b>The three gardians</b></a></td>
-  </tr>
-  <tr>
-    <td><b>CPU Raytracer</b></th>
-    <td><b>DirectX and CPU rasterizer</b></td>
-    <td><b>Mechanics based game in Unity</b></td>
-  </tr>
-  <tr>
-    <td><a href="Projectx/SoftwareRayTracer/"><img src="Content/RayTracer.gif" alt="drawing" width="100%"></a></td>
-    <td><a href="Projectx/DualRasterizer/"><img src="Content/DualRasterizer.gif" alt="drawing" width="100%"></a></td>
-    <td><a href="Projectx/TheThreeGuardians/"><img src="Content/TheThreeGuardians.gif" alt="drawing" width="100%"></a></td>
-  </tr>
-</table>
+  <div>
+    <table style="width:300px">
+      <tr><td><a href="Projects/CupheadRemake/"><b>Cuphead Remake</b></a></td></tr>
+      <tr><td>2D Platformer remake</td></tr>
+      <tr><td><a href="Projects/CupheadRemake/"><img src="Content/Cuphead.gif" alt="drawing" /></a></td></tr>
+    </table>
+  </div>
+
+  <div>
+    <table style="width:300px">
+      <tr><td><a href="Projects/SoftwareRayTracer/"><b>Software raytracer</b></a></td></tr>
+      <tr><td>Raytracer on CPU</td></tr>
+      <tr><td><a href="Projects/SoftwareRayTracer/"><img src="Content/RayTracer.gif" alt="drawing" /></a></td></tr>
+    </table>
+  </div>
+
+  <div>
+    <table style="width:300px">
+      <tr><td><a href="Projects/DualRasterizer/"><b>Dual Rasterizer</b></a></td></tr>
+      <tr><td>CPU and DirectX11 rasterizer</td></tr>
+      <tr><td><a href="Projects/DualRasterizer/"><img src="Content/DualRasterizer.gif" alt="drawing" /></a></td></tr>
+    </table>
+  </div>
+
+  <div>
+    <table style="width:300px">
+      <tr><td><a href="Projects/TheThreeGuardians/"><b>The Three Guardians</b></a></td></tr>
+      <tr><td>Mechanics based game in Unity</td></tr>
+      <tr><td><a href="Projects/TheThreeGuardians/"><img src="Content/TheThreeGuardians.gif" alt="drawing" /></a></td></tr>
+    </table>
+  </div>
+
+</div>
 
 </body>
 </html>
