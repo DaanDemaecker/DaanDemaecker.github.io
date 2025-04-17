@@ -5,9 +5,9 @@
 <div class="nav-bar">
   <md-block>
 
-<a href="../../">Home</a>
-- <a href="../../AboutMe/">About Me</a>
-- <a href="../../Resume/">Resume</a>
+<a href="../../" class="selected">Home</a>
+- <a href="../../AboutMe/" class="selected">About Me</a>
+- <a href="../../Resume/" class="selected">Resume</a>
 
   </md-block>
 </div>
