@@ -1,3 +1,35 @@
+@font-face {
+	font-family: 'Helvetica';
+	src: url('Content/Fonts/Helvetica.ttf');
+  }
+
+  h1 {
+	font-family: 'Helvetica', sans-serif;
+	font-size: 30px;
+	color: white;
+	text-align: center;
+	margin-bottom: 5px;
+  }
+
+  h2 {
+	font-family: 'Helvetica', sans-serif;
+	font-size: 25px;
+	color: white;
+	margin-bottom: 5px;
+  }
+
+  hr{
+	margin-bottom: 15px;
+  }
+
+  p {
+	font-family: 'Helvetica', sans-serif;
+	color: white;
+	text-align: left;
+	margin-bottom: 0px;
+	text-align: justify;
+  }
+
 .markdown-body>*:first-child{
 	display: none;
 }
@@ -27,6 +59,7 @@ table td, table th {
 	border-top: solid 2px var(--white);
 	border-bottom: solid 2px var(--white);
 	margin: 30px 0 20px;
+	text-align: center;
 }
 
 .nav-bar ul {
@@ -73,9 +106,63 @@ a:hover {
     color: #0366d6;
 }
 
+a:visited {
+	color: #0366d6;
+	background-color: transparent;
+	text-decoration: none;
+  }
+
 .container {
 	display: flex;
 	flex-wrap: wrap;
 	gap: 1rem;
   }
+
+
+table.project {
+	font-family: 'Helvetica', sans-serif;
+	font-size: 15px;
+    width: 100%;
+    text-align: center;
+}
+
+.grid-container{
+	display:grid;
+	grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+	gap: 35px;
+	justify-content: left;
+  }
   
+  .image-wrapper {
+	width: 100%;
+	aspect-ratio: 16 / 9;
+	overflow: hidden;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+  }
+  
+  .image-wrapper img {
+	width: 100%;
+	height: 100%;
+	object-fit: cover;
+  }
+  
+
+img.project {
+    width: 100%;
+    height: auto;
+    display: block;
+    object-fit: cover;
+	object-position: center center;
+}
+
+
+.main-div
+{
+	padding:50px;
+	margin-left: 200px;
+	margin-right: 200px;
+	background-color: #151515;
+	border-radius: 50px;
+}
