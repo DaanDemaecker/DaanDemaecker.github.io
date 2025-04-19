@@ -161,8 +161,8 @@ img.project {
 .main-div
 {
 	padding:50px;
-	margin-left: 200px;
-	margin-right: 200px;
+	margin-left: 10%;
+	margin-right: 10%;
 	background-color: #151515;
 	border-radius: 50px;
 }
