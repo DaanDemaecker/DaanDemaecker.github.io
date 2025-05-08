@@ -106,6 +106,10 @@ a:hover {
     color: #0366d6;
 }
 
+.nav-bar a.unselected {
+    color: #FFFFFF;
+}
+
 a:visited {
 	color: #0366d6;
 	background-color: transparent;
