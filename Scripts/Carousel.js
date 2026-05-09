@@ -19,6 +19,13 @@ const carouselLinks =
     "Projects/IMPossible/index.html"
 ];
 
+carouselImages.forEach(src=>
+{
+    const img = new Image();
+    img.src = src;
+}
+);
+
 let currentIndex = 0;
 
 function moveCarousel(amount)
