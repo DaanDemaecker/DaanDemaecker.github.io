@@ -2,6 +2,7 @@
 <head>
   <link href="Content/StyleSheet.css" rel="stylesheet" />
 </head>
+
 <body>
 
   <div class="main-div">
@@ -17,185 +18,50 @@
     <div class="nav-bar" style="text-align: center;">
       <h2>
         <a href="#" class="unselected">Home</a> - 
+        <a href="Projects/index.html" class="selected">Projects</a> - 
         <a href="AboutMe/index.html" class="selected">About Me</a> - 
         <a href="Resume/index.html" class="selected">Resume</a>
       </h2>
     </div>
 
+    <h1>Intro</h1>
+    <div class="about_me_section">
+      <img class="about_me_image"  src="Content/Daan.jpg" alt="drawing">
+      <p>
+        Hello there! My name is Daan and I have always loved games, but only a couple of years ago did I fall in love with everything behind them, from the first line of code to the final particle of polishing. <br/> 
+        I never even dreamed of making my own games until I discoverered
+        <a href="https://www.digitalartsandentertainment.be/" target="_blank" class="link">Digital Arts and Entertainment</a>, but when I did, I was hooked.  <br/> 
+        In the last couple years, my love and interest for Graphics Programming has also been growing steadily and I am more and more certain that's the path I want to pursue. <br/>
+      </p>
+      </div>
+
     <h1>Projects</h1>
-    <h2>Private projects</h2>
-    <hr/>
 
-    <div class="grid-container">
+    <table>
+      <tr>
+        <th width="10%">
+          <button onclick="moveCarousel(-1)" class="carousel_button"><img src="Content/LeftArrow.png"></button>
+        </th>
 
-      <div>
-        <table class="project">
-          <tr><th><a href="Projects/VulkanRenderer/index.html">VulkanRenderer</a></th></tr>
-          <tr><th>Renderer using Vulkan SDK</th></tr>
-          <tr><th>
-            <div class="image-wrapper">
-              <a href="Projects/VulkanRenderer/index.html">
-                <img src="Content/VulkanRenderer3D.gif" class="project" alt="drawing" />
-              </a>
-            </div>
-          </th></tr>
-        </table>
+        <th width="70%">
+            <div class="card">
+                <a id="CarouselTitle" href="Projects/DDM3-Lite-Engine/index.html" class="link">DDM3-Lite-Engine</a>
+            <hr/>
+            <a id="CarouselLink" href="Projects/DDM3-Lite-Engine/index.html">
+              <img id="CarouselImage" src="Content/DDM3-Lite-Engine.gif" class="project" alt="drawing"/>
+            </a>
       </div>
-
-      <div>
-        <table class="project">
-          <tr><th><a href="Projects/DDM3-Lite-Engine/index.html">DDM3-Lite-Engine</a></th></tr>
-          <tr><th>3D Engine using my renderer</th></tr>
-          <tr><th>
-            <div class="image-wrapper">
-              <a href="Projects/DDM3-Lite-Engine/index.html">
-                <img src="Content/DDM3-Lite-Engine.gif" class="project" alt="drawing" />
-              </a>
-            </div>
-          </th></tr>
-        </table>
-      </div>
-
-      <div>
-        <table class="project">
-          <tr><th><a href="Projects/SouperBloody/index.html">Souper BLoody</a></th></tr>
-          <tr><th>Unwrap Gamejam winner 2025</th></tr>
-          <tr><th>
-            <div class="image-wrapper">
-              <a href="Projects/SouperBloody/index.html">
-                <img src="Content/SouperBloody.gif" class="project" alt="drawing" />
-              </a>
-            </div>
-          </th></tr>
-        </table>
-      </div>
-
-      <!--
-      <div>
-        <table class="project">
-          <tr><th><a href="Projects/DirectX12Renderer/index.html">DirectX12 Renderer (WIP)</a></th></tr>
-          <tr><th>Renderer using DirectX12 API</th></tr>
-          <tr><th>
-            <div class="image-wrapper">
-              <a href="Projects/DirectX12Renderer/index.html">
-                <img src="Content/DirectX12.gif" class="project" alt="drawing" />
-              </a>
-            </div>
-          </th></tr>
-        </table>
-      </div>
-    -->
-
+        </th>
+    
+        <th width="10%">
+          <button onclick="moveCarousel(1)" class="carousel_button"><img src="Content/RightArrow.png"></button>
+        </th>
+      </tr>
+    </table>
     </div>
-
-    <h2>School projects</h2>
-    <hr/>
-
-    <div class="grid-container">
-
-      <div>
-        <table class="project">
-          <tr><th><a href="Projects/WarpWarfare/index.html">Warp Warfare</a></th></tr>
-          <tr><th>Vertical slice in Unity</th></tr>
-          <tr><th>
-            <div class="image-wrapper">
-              <a href="Projects/WarpWarfare/index.html">
-                <img src="Content/WarpWarfare.png" class="project" alt="drawing" />
-              </a>
-            </div>
-          </th></tr>
-        </table>
-      </div>
-
-      <div>
-        <table class="project">
-          <tr><th><a href="Projects/IMPossible/">IMPossible</a></th></tr>
-          <tr><th>Vertical slice in Unity</th></tr>
-          <tr><th>
-            <div class="image-wrapper">
-              <a href="Projects/IMPossible/index.html">
-                <img src="Content/IMPossible.gif" class="project" alt="drawing" />
-              </a>
-            </div>
-          </th></tr>
-        </table>
-      </div>
-
-      <div>
-        <table class="project">
-          <tr><th><a href="Projects/D2D-Engine/index.html">D2D-Engine</a></th></tr>
-          <tr><th>Bomberman remake in custom 2D engine</th></tr>
-          <tr><th>
-            <div class="image-wrapper">
-              <a href="Projects/D2D-Engine/index.html">
-                <img src="Content/Bomberman.gif" class="project" alt="drawing" />
-              </a>
-            </div>
-          </th></tr>
-        </table>
-      </div>
-
-      <div>
-        <table class="project">
-          <tr><th><a href="Projects/CupheadRemake/index.html">Cuphead remake</a></th></tr>
-          <tr><th>2D platformer remake</th></tr>
-          <tr><th>
-            <div class="image-wrapper">
-              <a href="Projects/CupheadRemake/index.html">
-                <img src="Content/Cuphead.gif" class="project" alt="drawing" />
-              </a>
-            </div>
-          </th></tr>
-        </table>
-      </div>
-
-      <div>
-        <table class="project">
-          <tr><th><a href="Projects/SoftwareRayTracer/index.html">Software raytracer</a></th></tr>
-          <tr><th>Raytracer on CPU</th></tr>
-          <tr><th>
-            <div class="image-wrapper">
-              <a href="Projects/SoftwareRayTracer/index.html">
-                <img src="Content/RayTracer.gif" class="project" alt="drawing" />
-              </a>
-            </div>
-          </th></tr>
-        </table>
-      </div>
-
-      <div>
-        <table class="project">
-          <tr><th><a href="Projects/DualRasterizer/index.html">Dual rasterizer</a></th></tr>
-          <tr><th>CPU and DirectX11 rasterizer</th></tr>
-          <tr><th>
-            <div class="image-wrapper">
-              <a href="Projects/DualRasterizer/index.html">
-                <img src="Content/DualRasterizer.gif" class="project" alt="drawing" />
-              </a>
-            </div>
-          </th></tr>
-        </table>
-      </div>
-      
-      <!--
-      <div>
-        <table class="project">
-          <tr><th><a href="Projects/TheThreeGuardians/index.html">The Three Guardians</a></th></tr>
-          <tr><th>Prototype in Unity</th></tr>
-          <tr><th>
-            <div class="image-wrapper">
-              <a href="Projects/TheThreeGuardians/index.html">
-                <img src="Content/TheThreeGuardians.gif" class="project" alt="drawing" />
-              </a>
-            </div>
-          </th></tr>
-        </table>
-      </div>
-      -->
-
-    </div>
-
   </div>
+
+  <script src="Scripts/Carousel.js"></script>
 
 </body>
 </html>
