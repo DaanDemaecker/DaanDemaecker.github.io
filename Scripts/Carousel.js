@@ -1,8 +1,8 @@
 const carouselImages =
 [
-    "Content/DDM3-Lite-Engine.gif",
-    "Content/VulkanRenderer3D.gif",
-    "Content/IMPossible.gif"
+    "Content/DDM3-Lite-Engine.webm",
+    "Content/VulkanRenderer3D.webm",
+    "Content/IMPossible.webm"
 ];
 
 const carouselTitles =
