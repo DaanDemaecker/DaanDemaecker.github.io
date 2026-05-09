@@ -19,12 +19,6 @@ const carouselLinks =
     "Projects/IMPossible/index.html"
 ];
 
-carouselImages.forEach(src=>
-{
-    const img = new Image();
-    img.src = src;
-}
-);
 
 let currentIndex = 0;
 
@@ -43,7 +37,14 @@ function moveCarousel(amount)
 
     let carouselImage = document.getElementById("CarouselImage");
 
-    carouselImage.src = carouselImages[currentIndex];
+    carouselImage.pause();
+
+    carouselImage.setAttribute("src", carouselImages[currentIndex]);
+    carouselImage.load();
+
+    carouselImage.play().catch(err => {
+        console.log("Autoplay blocked or failed:", err);
+    });
 
     let carouselTitle = document.getElementById("CarouselTitle");
 
