@@ -1,13 +1,19 @@
 @font-face {
 	font-family: 'Helvetica';
-	src: url('Content/Fonts/Helvetica.ttf');
+	src: url('Fonts/Helvetica.ttf');
+  }
+
+  @font-face {
+	font-family: 'Jersey';
+	src: url('Fonts/Jersey25-Regular.ttf');
   }
 
 :root {
-  --primary-background-color: #a4a5b0;
+  --primary-background-color: #1c2b3e;
   --primary-foreground-color: #8697b1;
-  --primary-text-color:#323131;
-  --primary-link-color:#0366d6;
+  --primary-text-color:#f5ead4;
+  --primary-link-color:#008000;
+  --secondary-link-color:#16a616;
   --image-corner-radius: 25px;
 }
 
@@ -21,7 +27,8 @@
 }
 
   h1 {
-	font-family: 'Helvetica', sans-serif;
+	letter-spacing: 2px;
+	font-family: 'Jersey', sans-serif;
 	font-size: 30px;
 	color: var(--primary-text-color);
 	text-align: center;
@@ -29,7 +36,8 @@
   }
 
   h2 {
-	font-family: 'Helvetica', sans-serif;
+	letter-spacing: 1px;
+	font-family: 'Jersey', sans-serif;
 	font-size: 25px;
 	color: var(--primary-text-color);
 	margin-bottom: 5px;
@@ -195,7 +203,14 @@ img.project {
 
 .link
 {
+	font-family: 'Helvetica', sans-serif;
 	color:var(--primary-link-color);
+	text-align: center;
+}
+
+.secondary_link
+{
+	color:var(--secondary-link-color);
 	text-align: center;
 }
 
