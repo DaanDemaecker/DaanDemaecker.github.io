@@ -1,6 +1,6 @@
 @font-face {
 	font-family: 'Helvetica';
-	src: url('Fonts/Helvetica.ttf');
+	src: url('Fonts/helvetica.ttf');
   }
 
   @font-face {
@@ -16,6 +16,109 @@
   --secondary-link-color:#16a616;
   --image-corner-radius: 25px;
 }
+
+
+/*
+---------------------
+Navbar
+---------------------
+*/
+
+.navbar
+{
+    overflow: hidden;
+    background-color: transparent;
+	text-align: center;
+}
+
+.navbar button
+{
+    background-color: inherit;
+    float: center;
+    border: none;
+    outline: none;
+    cursor: pointer;
+    padding: 14px 16px;
+    transition: 0.5s;
+    font-size: 25px;
+	font-family: 'Jersey', sans-serif;
+	color: var(--primary-link-color);
+}
+
+.navbar button:hover
+{
+	text-decoration: underline;
+}
+
+.navbar button.active
+{
+	color: var(--primary-text-color);
+}
+
+.navbarContent
+{
+	display: none;
+}
+
+/*
+---------------------
+Cards
+---------------------
+*/
+
+.cardContainer
+{
+	display:grid;
+	grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+	gap: 35px 35px;
+	justify-content: left;
+	padding-top: 20px;
+}
+
+.card
+{
+	background-color: transparent;
+	border: none;
+}
+
+.card div{
+	background-color: var(--primary-background-color);
+  	box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+  	transition: 0.5s;
+	border-radius: var(--image-corner-radius);
+	text-align: center;
+	padding-top: 10px;
+	padding-bottom: var(--image-corner-radius);
+}
+
+.card div:hover {
+  	box-shadow: 0 8px 16px 0 rgba(0,0,0,0.4);
+	cursor: pointer;
+}
+
+.card p
+{
+	color: var(--primary-text-color);
+	background-color:transparent;
+	text-align: center;
+	font-family: Helvetica, sans-serif;
+	margin: 10px;
+}
+
+.card img
+{
+	width: 100%;
+	height: auto;
+	overflow: hidden;
+
+	aspect-ratio:calc(16/9);
+
+
+	display: block;
+}
+
+
+
 
   .main-div
 {
@@ -212,43 +315,6 @@ img.project {
 {
 	color:var(--secondary-link-color);
 	text-align: center;
-}
-
-.card {
-	background-color: var(--primary-background-color);
-  	box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
-  	transition: 0.3s;
-	border-radius: var(--image-corner-radius);
-	text-align: center;
-	padding-top: 10px;
-	padding-bottom: var(--image-corner-radius);
-}
-
-.card:hover {
-  	box-shadow: 0 8px 16px 0 rgba(0,0,0,0.4);
-}
-
-
-
-.card p
-{
-	color: var(--primary-text-color);
-	background-color:transparent;
-	text-align: center;
-	font-family: Helvetica, sans-serif;
-	margin: 10px;
-}
-
-.card img
-{
-	width: 100%;
-	height: auto;
-	overflow: hidden;
-
-	aspect-ratio:calc(16/9);
-
-
-	display: block;
 }
 
 .carousel_video
