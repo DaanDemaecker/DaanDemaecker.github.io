@@ -9,10 +9,10 @@
 
       <h1>
         Daan Demaecker
-        <a href="https://www.linkedin.com/in/daan-demaecker-3737b0265/" target="_blank">
+        <a class="linkImage" href="https://www.linkedin.com/in/daan-demaecker-3737b0265/" target="_blank">
           <img src="https://content.linkedin.com/content/dam/me/business/en-us/amp/brand-site/v2/bg/LI-Bug.svg.original.svg" alt="LinkedIn" width="25" />
         </a>
-        <a href="https://github.com/DaanDemaecker" target="_blank">
+        <a class="linkImage" href="https://github.com/DaanDemaecker" target="_blank">
           <img src="https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png" alt="GitHub" width="25" />
         </a>
       </h1>
@@ -42,14 +42,10 @@
 
         <h1>Projects</h1>
 
-        <table>
-          <tr>
-            <th width="10%">
-              <button onclick="moveCarousel(-1)" class="carousel_button"><img src="Content/LeftArrow.png"></button>
-            </th>
+        <div class="carouselContent">
+          <button onclick="moveCarousel(-1)" class="carousel_button carouselSide"><img src="Content/LeftArrow.png"></button>
 
-            <th width="70%">
-              <button onclick="SelectCarouselProject()" class="card">
+          <button onclick="SelectCarouselProject()" class="carouselMiddle">
                 <div>
                   <p id="CarouselTitle">
                     DDM3-Lite-Engine
@@ -65,13 +61,9 @@
                     </video>
                 </div>
               </button>
-            </th>
-    
-            <th width="10%">
-              <button onclick="moveCarousel(1)" class="carousel_button"><img src="Content/RightArrow.png"></button>
-            </th>
-          </tr>
-        </table>
+            
+          <button onclick="moveCarousel(1)" class="carousel_button carouselSide"><img src="Content/RightArrow.png"></button>
+        </div>
       </div>
 
 

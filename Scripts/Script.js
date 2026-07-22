@@ -119,4 +119,8 @@ async function SelectCarouselProject()
     OpenTab(null, "CurrentProject");
 }
 
+
+
+
 document.getElementById("Home").style.display = "block";
+moveCarousel(0);
