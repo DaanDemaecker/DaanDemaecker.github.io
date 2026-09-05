@@ -94,7 +94,7 @@ Cards
 
 }
 
-.card div{
+.cardDiv{
 	background-color: var(--primary-background-color);
   	box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
   	transition: 0.5s;
@@ -118,7 +118,7 @@ Cards
 	margin: 10px;
 }
 
-.card img
+.cardImage
 {
 	width: 100%;
 	height: auto;
@@ -130,6 +130,30 @@ Cards
 	display: block;
 }
 
+.cardImages
+{
+	position: relative;
+}
+
+.cardSoftwareLogos
+{
+	position: absolute;
+	top: 10%;
+	right: 5%;
+	height: 15%;
+	width: 15%;
+	background-color: transparent;
+}
+
+.cardSoftwareLogo
+{
+	object-fit: contain;
+	width: 100%;
+	height:100%;
+	padding: 5%;
+	background-color: #ffffff70;
+	border-radius: var(--image-corner-radius);
+}
 
 
 
@@ -311,11 +335,6 @@ table.project {
 	width: auto;
 	height: auto;
 
-	display: block;
-}
-  
-
-img.project {
 	display: block;
 }
 
