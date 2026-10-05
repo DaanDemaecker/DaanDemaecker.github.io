@@ -52,18 +52,12 @@ function moveCarousel(amount)
     let carouselTitle = document.getElementById("CarouselTitle");
 
     carouselTitle.innerHTML = carouselTitles[currentCarouselIndex];
-
-    carouselTitle.href = carouselLinks[currentCarouselIndex];
-
-    let carouselLink = document.getElementById("CarouselLink");
-    
-    carouselLink.href = carouselLinks[currentCarouselIndex];
 }
 
 // -----------------------------------
 // Tabs
 // -----------------------------------
-function OpenTab(evt, tabLabel)
+function OpenTab(evt, tabLabel, addToHistory = true)
 {
     let contents = document.getElementsByClassName("navbarContent");
 
@@ -86,13 +80,40 @@ function OpenTab(evt, tabLabel)
         currentContent.style.display = "block";
     }
 
-    evt.currentTarget.className += " active";
+    if(evt != null)
+    {
+        evt.currentTarget.className += " active";
+    }
+
+    if(addToHistory)
+    {
+        AddToHistory(tabLabel);
+    }
+}
+
+function AddToHistory(tabLabel, projectName = "")
+{
+    let tabName = `#${tabLabel}`;
+
+    if(tabLabel == "CurrentProject")
+    {
+        tabName = tabName + `#${projectName}`;
+    }
+
+    console.log(tabName);
+
+
+    history.pushState(
+            { tab: tabLabel, project: projectName },
+            '',
+            tabName
+        );
 }
 
 // -----------------------------------
 // Projects
 // -----------------------------------
-async function PickProject(evt, projectName)
+async function PickProject(evt, projectName, addToHistory = true)
 {
     let file = await fetch(`Projects/${projectName}.html`);
 
@@ -102,25 +123,33 @@ async function PickProject(evt, projectName)
 
     content.innerHTML = text;
 
-    OpenTab(null, "CurrentProject");
+    OpenTab(null, "CurrentProject", false);
+
+    if(addToHistory)
+    {
+        AddToHistory("CurrentProject", projectName);       
+    }
 }
 
 async function SelectCarouselProject()
 {
-    let file = await fetch(`Projects/${carouselLinks[currentCarouselIndex]}.html`);
-
-    let text = await file.text();
-
-    let content = document.getElementById("CurrentProject");
-
-    content.innerHTML = text;
-
-
-    OpenTab(null, "CurrentProject");
+    PickProject(null, carouselLinks[currentCarouselIndex], true);
 }
 
 
-
+window.addEventListener('popstate', (event) => {
+    const tab = event.state?.tab || 'Home';
+    console.log(tab);
+    if(tab == "CurrentProject")
+    {
+        const project = event.state?.project;
+        PickProject(null, project, false);
+    }
+    else
+    {
+        OpenTab(null, tab, false);
+    }
+});
 
 document.getElementById("Home").style.display = "block";
 moveCarousel(0);
