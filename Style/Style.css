@@ -91,7 +91,6 @@ Cards
 {
 	background-color: transparent;
 	border: none;
-
 }
 
 .cardDiv{
@@ -169,7 +168,7 @@ Cards
   h1 {
 	letter-spacing: 2px;
 	font-family: 'Jersey', sans-serif;
-	font-size: 30px;
+	font-size: 50px;
 	color: var(--secondary-text-color);
 	text-align: center;
 	margin-bottom: 5px;
